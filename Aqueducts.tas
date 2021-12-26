@@ -1,5 +1,5 @@
 stage Aqueducts
-rerecords 199
+rerecords 337
 
   29
   12,R,U,X
@@ -17,7 +17,38 @@ rerecords 199
    6,R,J,X
   90
   13,L
-   3,R,G
-  58,L,D
+   1,G
+   1,L,G
+  56,L,D
+   0
    6,J
+  39
+   1,X
+   1,D,X
+  50
+  25,X
+   6,J,X
+  26,X
+   1,J,X
+   3,L,J,X
+   2,X
+   9
+  11,L
+   5,X
+   6,J,X
+  11,X
+   1,D,X
+  38,X
+   1,L,X
+  40,X
+   6,J,X
+# 29.94
+  12,X
+   6,J,X
+   6,X
+   6,J,X
+   6,X
+   6,J,X
   99
+
+# 18.78 20.44
