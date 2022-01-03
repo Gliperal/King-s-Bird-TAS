@@ -1,0 +1,35 @@
+stage The Cascades
+rerecords 124
+
+  29
+  18,L,J,X
+  31,L,X
+   6,L,D,J,X
+  21,X
+  19,R,J,X
+
+
+  12,L,X
+   9,R,J
+   1,L,X
+  12,X
+   1,J,X
+  99,R,X
+
+
+  12,L,X
+   9,R,J,X
+  12,L,X
+   1,J,X
+  99,L,J,X
+
+
+  28,L,X
+   4,R,J,X
+
+   7,R,X,G
+   8,U,X,G
+   4,L,U,X,G
+   7,R,U,X,G
+   4,L,J,X
+  99,L,J
