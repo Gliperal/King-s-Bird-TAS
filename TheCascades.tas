@@ -1,35 +1,81 @@
-stage The Cascades
-rerecords 124
+>stage The Cascades
+>rerecords 306
 
   29
   18,L,J,X
   31,L,X
    6,L,D,J,X
   21,X
-  19,R,J,X
-
-
-  12,L,X
-   9,R,J
-   1,L,X
-  12,X
-   1,J,X
-  99,R,X
-
-
-  12,L,X
-   9,R,J,X
-  12,L,X
-   1,J,X
-  99,L,J,X
-
-
+  19,R,J
   28,L,X
    4,R,J,X
-
-   7,R,X,G
-   8,U,X,G
-   4,L,U,X,G
-   7,R,U,X,G
+   1,R,X,G
+   7,U,X,G
+  16,R,D,X
    4,L,J,X
-  99,L,J
+  34,L
+   4,R,J,X
+
+#  42,R,X
+#   6,R,J,X
+#   8,L,X
+#   1,L,J,X
+# leads to 42.85 @ 378
+
+  42,X
+   6,J,X
+  13,X
+   4,L,J,X
+   4,L
+   4,R,J,X
+   3,R
+   4,L,J,X
+   2,L
+   4,R,J,X
+   2,R
+   4,L,J,X
+   2,L
+   4,R,J,X
+   1,R
+   4,L,J,X
+   1,L
+   4,R,J,X
+   1,R
+   4,L,J,X
+   1,L
+   4,R,J,X
+   1,R
+   4,L,J,X
+   1,L
+   4,R,J,X
+   1,R
+   4,L,J,X
+   1,L
+   4,R,J,X
+   1,R
+   4,L,J,X
+   1,L
+   4,R,J,X
+   1,R
+   4,L,J,X
+   2,L,X
+   5,R,J,X
+   6,D,X,G
+  11,X
+   1,R,U,X,G
+  13
+   2,R,U,G
+  12
+   1,R,U,G
+  19,R,X,G
+   1,R,D,G
+   5,D,G
+   2,L,D,G
+  99
+   1,D,G
+  19,R,X
+   2,R,D,G
+   4,R,G
+   1,R,U,G
+   7
+# 12.250
