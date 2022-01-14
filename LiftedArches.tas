@@ -1,8 +1,8 @@
 >stage Lifted Arches
->rerecords 274
+>rerecords 798
 
-  29
-   5,J,X
+  29,R
+   5,R,J,X
   31,X
    6,J,X
    5,X
@@ -50,4 +50,68 @@
    5,X
    2,L,U,X,G
    8,U,X,G
-  99,R,U,X,G
+   4,R,U,J,X,G
+   5,X
+   4,L,J,X
+  21,L,X
+   5,J,X
+   9,X
+   6,J,X
+   8,X
+   4,R,J,X
+   2,L
+  20,X,G
+   6,D,X,G
+   4,L,U,J,X
+   6
+   4,R,J,X
+  20,X
+   1,L,J
+   7,R
+   9
+   3,X,G
+   8,R,U,X,G
+   3,R,X,G
+   9,L,X,G
+  12,L,D,G
+   3,D,G
+   3,L,J,X,G
+  27,X
+   9,D,X,G
+   8,R,D,G
+   7,R,G
+  47
+   5,R,G
+   6,R,U,X,G
+   7,X
+   2,R,D,X,G
+   1,D,X,G
+   3,R,U,X,G
+   4,U,X,G
+   3,R,U,X,G
+   1,U,G
+   3,L,U,G
+   1,R,U,G
+   1,U,G
+   1,R,U,G
+   2,U,G
+   1,R,U,G
+   4,R,G
+   4,R,D,J,X,G
+  10,J,X,G
+   1,R,D,X,G
+   3,D,X,G
+   7,R,U,X,G
+   9,X
+   9,J,X,G
+   1,R,D,X,G
+   1,D,X,G
+   2,R,X,G
+   6
+   1,L,J
+   2
+   5,R,J,X
+   2,R,D,G
+   5,D,G
+   1,L,D,X,G
+  99,D,X
