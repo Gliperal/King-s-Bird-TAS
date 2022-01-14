@@ -1,5 +1,5 @@
 >stage Lifted Arches
->rerecords 798
+>rerecords 1130
 
   29,R
    5,R,J,X
@@ -79,10 +79,16 @@
   27,X
    9,D,X,G
    8,R,D,G
-   7,R,G
-  47
+   6,R,G
+  37
+   1,R,G
+   6
+   1,R,G
+   4
    5,R,G
-   6,R,U,X,G
+   2,R,U,G
+   1
+   1,R,U,X,G
    7,X
    2,R,D,X,G
    1,D,X,G
@@ -101,17 +107,96 @@
   10,J,X,G
    1,R,D,X,G
    3,D,X,G
-   7,R,U,X,G
-   9,X
-   9,J,X,G
+   3,R,U,X,G
+  15,X
+   7,J,X,G
    1,R,D,X,G
    1,D,X,G
-   2,R,X,G
-   6
+   1,R,D,J,X,G
+   4,R,J,X
+   3,X
    1,L,J
    2
    5,R,J,X
    2,R,D,G
    5,D,G
    1,L,D,X,G
-  99,D,X
+   2,D,X,G
+   2,L,D,X,G
+  14,X
+   1,L,D,X,G
+   4,X
+   1,R,D,G
+   3
+
+
+
+# loopback
+   2,R,D,G
+   5,R,G
+   1
+   5,R,U,G
+   5,U,G
+   2,L,U,X,G
+   1,L,D,X,G
+   2,L,U,X,G
+   6,L,D,X,G
+   2,D,X,G
+   4,L,X,G
+   2,L,U,X,G
+   4,U,J,X,G
+   3,R,J,X
+   4,X
+   7,D,X,G
+   7,X
+   7,L,D,X,G
+   2,D,G
+   7,L,G
+   8,L,U,G
+   7,U,G
+   4,R,U,G
+   5,G
+   6,R,U,G
+   7,G
+   3,R,G
+   8,G
+   4,R,G
+  11,R,D,G
+   2,D,G
+   5,R,J,X
+  29,R,X
+   8,R,J,X
+# 1035 (0:21.563)
+
+
+
+# standard route
+   1
+   2,R,D,G
+   5,R,G
+   5,R,U,G
+   5,U,G
+   2,L,U,G
+   1,R,U,G
+   1,L,U
+   1,L,D,G
+   3,L,U,G
+   5,L,D,G
+   6,D,G
+   2,R,D,G
+   1
+   5,R,D,G
+   4,L,G
+   7,L,U,G
+   6,U,J,X,G
+   3,R,J,X
+  11,R
+   4,L,J,X
+  10,L
+   4,R,J,X
+  45,R
+  15,R,D,X,G
+   7,R,X,G
+   5,R,J,X
+  29,R,X
+# 1045 (0:21.771)
