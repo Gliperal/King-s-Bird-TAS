@@ -128,10 +128,6 @@
    4,X
    1,R,D,G
    3
-
-
-
-# loopback
    2,R,D,G
    5,R,G
    1
@@ -167,36 +163,3 @@
   29,R,X
    8,R,J,X
 # 1035 (0:21.563)
-
-
-
-# standard route
-   1
-   2,R,D,G
-   5,R,G
-   5,R,U,G
-   5,U,G
-   2,L,U,G
-   1,R,U,G
-   1,L,U
-   1,L,D,G
-   3,L,U,G
-   5,L,D,G
-   6,D,G
-   2,R,D,G
-   1
-   5,R,D,G
-   4,L,G
-   7,L,U,G
-   6,U,J,X,G
-   3,R,J,X
-  11,R
-   4,L,J,X
-  10,L
-   4,R,J,X
-  45,R
-  15,R,D,X,G
-   7,R,X,G
-   5,R,J,X
-  29,R,X
-# 1045 (0:21.771)
