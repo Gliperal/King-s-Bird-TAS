@@ -1,5 +1,5 @@
 >stage The Outskirts
->rerecords 363
+>rerecords 459
 
   29
    1,R,U,X
@@ -47,6 +47,37 @@
    4,X,G
 
 
+#   4,R,D,X,G
+#   1,D,X,G
+#  14,X
+#   2,R,U,X,G
+#  12
+#   1,R,U,X,G
+#   3,R,J,X,G
+#  18,X
+#   6,R,U,X,G
+#   7,G
+#   1,R,U,G
+#   6,G
+#   1,R,U,G
+#   6,G
+#   1,R,U,G
+#   5,G
+#   1,R,U,G
+#   5,G
+#   1,R,U,G
+#   4,G
+#  11,U,G
+#   5,L,U,G
+#   5,L,J,X
+#  14,L
+#   1,X
+#   4,R,J,X
+#   6,X,G
+#  44,R,U,X,G
+#  21,U,X,G
+#  99,L,J,X
+
 
    4,R,D,X,G
    6,D,X,G
@@ -82,35 +113,28 @@
    1,R,U,J,X,G
    3,L,J,X
   11,L
-  99,R,J,X
-# 41.51 @ 500
-
-
-
-   4,R,D,X,G
+   4,R,J,X
+   5,X,G
+  33,R,U,X,G
+   5,U,X,G
+   3,L,U,X,G
+   4,L,J,X
+   6,X,G
+   4,L,D,X,G
    1,D,X,G
-  14,X
-   2,R,U,X,G
-  12
-   1,R,U,X,G
-   3,R,J,X,G
-  18,X
-   6,R,U,X,G
-   7,G
-   1,R,U,G
-   6,G
-   1,R,U,G
-   6,G
-   1,R,U,G
-   5,G
-   1,R,U,G
-   5,G
-   1,R,U,G
-   4,G
-  11,U,G
-   5,L,U,G
-   5,L,J,X
-  14,L
-   1,X
-  99,R,J,X
-# 32.63 @ 475
+   9,X
+   2,L,U,X,G
+   7,L,X,G
+   4,U,X,G
+  10,X,G
+   2,U,X,G
+  20,X,G
+   3,U,X,G
+  19,X,G
+   9,U,X,G
+   3,R,U,X,G
+  31,U,X,G
+   3,R,D,X
+   5,R,D,J,X
+  27,R,X
+# 0:14.896
