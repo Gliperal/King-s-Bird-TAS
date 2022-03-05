@@ -1,5 +1,5 @@
 >stage The Colosseum
->rerecords 121
+>rerecords 519
 
   29
    7,R,U,X,G
@@ -15,15 +15,80 @@
    5,L,U,X,G
    6,J,X
   11,X
-  10,U,X,G
-  47
-  27,R,D,X,G
-   1
+   6,U,X,G
+   4,R,X,G
+  11,R,D,G
+   3,D,G
+   7,D,G
+   9,L,D,G
+  12,L,G
+  12,L,U,G
+   6,L,U,J,X,G
+   9,X,G
+   1,R,X,G
    9,R,D,X,G
-   6,D,G
-  42,L
-  15,R,U,G
-  53
+   9,D,G
+   1,L
+   3,G
+   6,X,G
+   4,D,G
+   8,L,G
+   8,L,U,X,G
+   2,X
+   1,J,X
+   6,X
+  16,U,X,G
+   3,R,X,G
+  13,G
+   3,R,G
+   7,R,D,G
+   8,D,G
+  12
+   2,D,G
+   8
+   2,X
+  15,D,G
+  19,L
+  13,R,U,G
+  13
+   1,R,U,G
+  17
+   1,R,U,G
+  25
+   1,R,U,G
+
+
+  18
+  13,U,G
+   1,R,U,G
+   3,U,G
+   1,R,U,G
+   3,U,G
+   1,R,U,G
+   3,U,G
+   1,R,U,G
+   3,U,G
+   1,R,U,G
    4,U,G
-  42
-  99,U,G
+   1,R,U,G
+   3,U,G
+   1,R,U,G
+   3,U,G
+   1,R,U,G
+   3,U,G
+   1,R,U,G
+   2,U,G
+   8,L,U,G
+  10,R
+  13,L
+ 106,R,X
+   9,R,U,G
+  19
+   5,R,U,G
+  11
+  14,U,G
+   2,R,U,G
+  91,R,X
+   5,R,D,J,X
+  21
+# 815 (0:16.979)
