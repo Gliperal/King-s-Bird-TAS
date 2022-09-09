@@ -1,4 +1,4 @@
-<tas stage="Tunnel Labyrinth" rerecords="355"><inputs>
+<tas stage="Tunnel Labyrinth" rerecords="638"><inputs>
   29
    7,R,U,X,G
    3,U,X,G
@@ -80,9 +80,112 @@
    3,U,G
    1,R,U,G
    1,U,G
-   4,U,J,X,G
-
-
+  12,U,J,X,G
+   2,R,D,G
+   6,D,G
+   4,L,D,G
+   2,L,G
+   7
+   2,D,G
+   6
+   3,R,D,G
+   5,R,G
+   3,R,U,G
+   4,R,D,G
+   3,D,G
+   2,L,D,G
+   3,D,X,G
+   1,L,D,G
+   1,G
+   3,R,D,G
+   4,R,G
+   3,R,U,X,G
+   2,X
+   4,U,X,G
+   5,X,G
+   1,R,U,X,G
+  11,X,G
+   4,U,G
+   1,L,U,G
+   6,U,G
+   2,R,U,G
+   3,R,G
+   1,R,U,X,G
+   1,X
+  11,U,X,G
+   4,R,U,G
+   3,R,G
+   3,R,D,G
+   6
+   5,R,D,G
+   9
+   2,R,G
+  22,X,G
+   3,L,D,G
+   4,L,G
+   1,L,U,G
+   1,G
+   4,L,U,X,G
+   4,U,X,G
+   5,X,G
+   7,L,X,G
+   1,X,G
+   4,L,X,G
+   1,X
+   3,L,D,G
+   5,D,G
+   4,L,G
+   4
+   1,L,G
+   3
+   1,L,D,G
+   3,D,G
+   5,R,D,G
+   4,R,G
+   5,R,U,G
+   3,U,G
+   1,R,G
+   4,R,D,G
+   6
+   1,R,G
+   4
+   1,R,G
+   1
+   5,L,X
+   2,U,X,G
+  13,L,X,G
+   4,U,X,G
+   7,L,X,G
+   1,D,X,G
+   6,L,X,G
+   5,D,G
+   6,L,U,G
+  13,U,G
+   3,R,U,G
+   5,R,G
+  23,G
+  11,U,G
+   7,R,G
+   5,R,D,X,G
+   2,D,J,X,G
+  29,J,X
+   9,D,G
+  31,R,D,X,G
+   1,D,X,G
+   2,D,G
+   9
+   2,R,G
+   7
+   1,R,G
+   5,R,U,G
+   4
+   2,R,U,G
+   3,U,G
+   7,G
+   3,R,D,G
+   1,R,D,J,X,G
+  14
+# 892 (0:18.583)
 
 </inputs></b><b name="counter-clockwise loop"><inputs>
    3,R,D,G
