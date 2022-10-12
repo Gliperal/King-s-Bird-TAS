@@ -1,4 +1,4 @@
-<tas stage="Waterfall Mountains" rerecords="286"><inputs>
+<tas stage="Waterfall Mountains" rerecords="507"><inputs>
   29
    7,R,U,X
    3,D,G
@@ -49,13 +49,67 @@
    1,R,X,G
   17,U,X,G
    2,L,G
-  37,U,G
+  26,U,G
 # 24.35 @ 1635.84
-   7,R,G
-   9,R,D,G
-   9,D,G
-   8,R,U,G
-   0,U,X,G
+   3,L,G
+   1,G
+  10,R,G
+   2,R,D,X,G
+  15,X
+  12,J,X
+  12,L,U,X,G
+  45,U,X,G
+   6,R,D,J,X
+  24
+  12,U,G
+   1,U,J,X,G
+   3,L,J,X
+  31,L
+   4,R,J,X
+  21,R
+  14,X
+   5,R,D,J,X
+  18
+  27,D,G
+   1,G
+   4,R,X,G
+   6,J,X
+  43
+  24,R,U,G
+   5,R,D,G
+   7,R,J,X,G
+  12,X
+# probably not worth doing this edgepull since I need to lose speed anyway ?
+   5,D,G
+   1,G
+   2,R,U,X,G
+  26,U,X,G
+   8,L,G
+  10,L,D,G
+   1,D,X,G
+  12,X
+   4,R,J,X
+   8,R
+   4,L,J,X
+   8,L
+   4,R,J,X
+#  11,X
+#   7,U,X,G
+#  18,R,X,G
+#   0,U,X,G
+  18,X,G
+   5,U,X,G
+   9,X,G
+   7,U,X,G
+   6,L,U,G
+  13,U,G
+   1,U,X,G
+   4,L,J,X
+   5,L
+   4,R,J
+   8,R
+  52,L,J,X
+# 994 (0:20.708)
 
 </inputs></b><b name="extra dash on diagonal"><inputs>
    2,U,X,G
