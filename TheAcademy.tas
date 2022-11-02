@@ -1,0 +1,187 @@
+<tas stage="The Academy" rerecords="587"><inputs>
+  29
+   7,R,U,X
+   9,D,G
+   7,R,U,X,G
+  30,R,X,G
+   3
+   4,R,U,G
+   9,U,X,G
+   5,X,G
+   2,D,G
+   1
+   2,U,X,G
+  11,X,G
+   3,U,X,G
+   3,D,X,G
+   7,D,G
+   2,D,X,G
+   6,J,X,G
+   1
+  10,J,X
+  21,R,D,X
+   5,D,G
+  11,D,X,G
+  10,R,X,G
+   6,J,X
+   3,X
+   1,J,X
+   3,X
+   1,L,J,X
+  15,L,X
+  11,R,J,X
+   7,D,G
+   8,L,D,X,G
+  13,X
+   8,L,G
+   1,D,G
+  14,R,D,G
+   8,U,X,G
+   6,L,U,X,G
+   7,U,X,G
+   1,L,X,G
+   2,U,X,G
+   6,R,X,G
+   3,R,D,G
+   1,R,U,G
+   7,L,U,X,G
+   1,J
+   1,R,D,J,X,G
+#  17,X
+#  26,J,X
+#   0,D,G
+  20,X
+   6,J,X
+  24
+   9,D,G
+  13,L,U,X,G
+   6,X
+   6,J,X
+  14,X
+   2,G
+   4,R,U,G
+   4,R,J,X
+   4,X
+  26,R,J,X
+   1,X,G
+  14,D,G
+   2,R,G
+  12,R,U,G
+   3,U,J,X,G
+  10
+   6,X,G
+  10,U,X,G
+   1,X,G
+   5,R,D,X,G
+  22,R,G
+   1,R,U,X,G
+# 23.75 @ 557
+   4,X
+   1,X,G
+  12,D,G
+   3,R,G
+   6,R,D,X,G
+   4,X,G
+   2,U,X,G
+   1,X,G
+</inputs><branch><b name="unnamed branch"><inputs>
+  13,R,X,G
+   1,D,G
+   4,D,X,G
+   8,L,G
+  17,L,U,X,G
+   8,D,G
+   6,R,D,G
+   2,D,X,G
+   7,R,G
+   4,R,U,G
+# 24.65
+   1,R,U,J,X,G
+  22,X
+   6,D,G
+   3,L,D,X,G
+   1,X
+   7,L,G
+  99,L,U,X,G
+# 29.68 @ 712
+
+</inputs></b><b name="main branch"><inputs>
+#  10,R,X,G
+#   9,D,G
+#   2,L,D,X,G
+#   8,L,G
+#   0,L,U,G
+
+</inputs></b><b name="unnamed branch"><inputs>
+  12,R,X,G
+   1,D,G
+   6,D,X,G
+   7,L,G
+   7,L,U,G
+   5,U,G
+   7,D,G
+   1,R,D,X,G
+   2,X
+   7,R,G
+   5,R,U,X,G
+   1,J,X
+# 23.96
+  22,X
+   6,D,G
+   3,L,D,X,G
+   1,X
+   7,L,G
+   8,L,U,X,G
+   3,X
+   3,D,G
+   4,L,G
+</inputs><branch><b name="unnamed branch"><inputs>
+   7,U,X,G
+   1,X,G
+   1,L,D,X,G
+   2,L,X,G
+   8,X
+   8,R,G
+   3,R,U,G
+   2,R,X,G
+# 37.91
+  15,J,X
+   3,D,G
+   2
+   2,R,U,G
+   8,R,X,G
+  24,J,X
+   2,R,U,X,G
+   2,R,D,X,G
+  14,R,U,X,G
+  18,U,X,G
+   1,L,U,G
+   5,L,G
+   4,L,D,G
+   6,L,G
+   1,D,G
+   1,L,G
+   6,U,G
+   1,U,J,X,G
+   3,R,J
+   4,R
+   4,L,J,X
+   4,L
+  29,R,J,X
+# 899 (0:18.729)
+
+</inputs></b><b name="main branch"><inputs>
+   1,U,X,G
+   3,J,X
+  15,X
+   8,R,G
+   0,R,U,X,G
+# 36.38
+# more speed on entry
+# might be better with a luckier parity
+
+</inputs></b></branch></b></branch><inputs>
+
+
+
+</inputs></tas>
