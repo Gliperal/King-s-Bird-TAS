@@ -1,0 +1,106 @@
+<tas stage="Collapsed Bridge" rerecords="321"><inputs>
+  29
+   6,L,U,J,X
+  22,L,U,X
+  30,U,J,X
+   3,R,D,G
+  15,D,G
+   4,L,D,G
+  11,L,G
+  23,L,U,X,G
+   1,L,D,G
+   1,G
+   2,U,G
+  28,R,U,J,X,G
+
+   3,R,D,G
+  11,D,G
+   7,G
+   1,R,G
+   8,R,U,G
+  10,U,G
+   5,L,U,G
+   4,U,J,X
+  12,U,X
+  13,U,J,X
+   3,D,G
+   8,R,X,G
+  12,D,G
+   5,R,G
+   8,R,U,G
+  14,U,G
+   2,L,J,X,G
+  22,R,X,G
+
+   4,U,X,G
+   3,R,D,X,G
+   2,D,X,G
+  10,D,G
+   7,R,U,G
+  12,U,G
+   5,L,U,G
+   4,U,J,X,G
+   9,L,X
+  18,R,U,J,X
+   9,D,X,G
+   7,L,D,G
+   7,L,G
+   5,R,D,G
+   4,D,X,G
+   8,R,X,G
+   5,R,U,G
+  11,U,G
+   8,L,U,G
+  22,U,X,G
+  12,U,J,X,G
+
+   4,R,D,X,G
+   6,D,G
+   6,L,D,G
+   2,L,G
+   3,G
+   5,L,G
+   6,L,U,G
+   7,U,G
+   2,R,U,G
+   3,U,X,G
+  12,U,J,X,G
+
+   5,R,D,X,G
+   5,D,G
+   5,L,D,G
+   3,L,G
+   4,G
+   3,L,G
+   5,L,U,G
+   6,U,G
+   2,R,U,G
+   2,U,X,G
+  40,U,J,X,G
+
+   2,D,G
+   4,R,G
+   3,R,U,G
+   4,X,G
+   3,R,U,G
+  20,R,G
+   1,R,U,G
+   9,R,X,G
+
+   2,R,D,G
+   1,R,U,G
+  15
+   2,R,U,G
+  15
+   7,R,U,G
+  20,U,G
+   1,R,U,G
+  13,U,G
+   2,L,U,G
+  17,U,X,G
+  12,U,J,X,G
+   6,L,U,G
+   8,L,G
+   1,L,D,X,G
+# 810 (0:16.875)
+</inputs></tas>
