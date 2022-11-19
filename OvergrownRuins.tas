@@ -1,0 +1,251 @@
+<tas stage="Overgrown Ruins" rerecords="540"><inputs>
+  29
+   7,R,U,X
+   1,R,U
+   5,D,G
+   1,R,U,J,X,G
+   3,R,U,J,X
+  24
+
+# Brute forced :^)
+  14,D,G
+   1,L,D,G
+   3,R
+   2,R,G
+   2,U,G
+   1,R,G
+   1,U,G
+   1
+   1,U,G
+   2,R,D,G
+   1,U,G
+   1,R,D,G
+   2
+   2,U,G
+   3
+   1,R,U,G
+   1
+   1,R,D,G
+   1,R,G
+   2
+   1,U,G
+   1,G
+   2
+   1,R,U,G
+   1
+   1,R,U,G
+   1,G
+   1
+   1,R,U,G
+   3,R,G
+# Until here
+
+   2,U,G
+  30,R,J,X,G
+
+   6,D,G
+   1,R,D,G
+   1,R,G
+   4,R,U,G
+  11,R,J,X,G
+
+# Antigrav
+   6,U,X,G
+   6,R,D,X,G
+   5,D,G
+   5,R,D,G
+   6,R,U,G
+   2,R,G
+   5,R,U,G
+
+# Moar antigrav
+   1,X,G
+   3,U,X,G
+   2,L,U,X,G
+   1,R,U,X,G
+   9,R,X,G
+   6,R,J,X
+   1,X
+   4,J,X
+  13,X
+   4,J,X
+  17,R,X
+
+   8,D,G
+   2,R,D,G
+   4,R,G
+   1,X,G
+  10,X
+   6,R,J,X
+   2,D,X,G
+   1,R,X,G
+   1,R,U,X,G
+   5,U,X,G
+   4,L,U,J,X,G
+
+# Beeg double jump
+  13,X
+   4,J,X
+  16
+   4,J,X
+  48
+
+# Brutus forceus
+  15,D,G
+   1,R
+   1,L,G
+   3,R
+   1,D,G
+   2,R
+   1,D,G
+   2,R
+   1,L,G
+   7,R
+   2,R,G
+   1,U,G
+   1,R,G
+   3,U,G
+   1,R,D,G
+   1
+   1,R,D,G
+   1,R,G
+   1
+   1,R,U,G
+   1,D,G
+   1,G
+   1,R,G
+   1
+   1,R,U,G
+   1
+   1,R,G
+   1,R,D,G
+   1,R,G
+   4
+   2,R,G
+   1,G
+   1,R,G
+   1
+   1,G
+   2
+   1,R,G
+   3
+   1,U,G
+   1,R,U,G
+   1,D,G
+   2
+   1,R,G
+   4
+# Mischief managed
+
+   1,R,D,G
+   2
+   4,R,U,X,G
+   8,U,X,G
+   2,R,D,X,G
+   1,X,G
+   2,U,X,G
+   8,L,U,J,X,G
+   6
+   4,J,X
+
+# Zoomin'
+  20,X
+   3,R,D,G
+   8,D,G
+   1,L,D,G
+  18,D,X,G
+   2,R,D,G
+   6,R,G
+# *perfect* align
+   6,X,G
+  10,U,X,G
+  10,J,X
+   3,X
+   4,J,X
+  13
+   1,X
+# my god, it works
+   2,U,X,G
+   3,X
+   1,D,G
+  12
+   3,R,G
+   1,R,U,G
+   1,U,G
+   1,X,G
+   4,U,X,G
+   3,D,X,G
+   8
+   2,R,D,G
+   7,D,G
+   4,L,D,G
+   3,L,G
+   4
+   2,L,G
+  12,X,G
+   5,D,G
+   3,R,D,G
+   5,R,G
+   4,R,U,G
+   2,R,X,G
+
+   3,U,X,G
+  11,X,G
+   3,U,X,G
+   3,R,X,G
+   5,R,D,J,X,G
+# *chef's kiss*
+  21,R,X
+   3,R,D,G
+   4,D,G
+   3,R,G
+   4,R,U,G
+   1,G
+   2,R,U,G
+   5,U,J,X,G
+   3
+# eugh, no hook dash
+# why so hard D:
+   1,L,D,X
+   6,J,X
+   1
+   4,J
+   2
+   1,X
+   4,J,X
+   5
+   9,X
+   5,D,G
+   1,R,D,G
+   5,L,U,G
+   6,U,J,X,G
+   5,X
+   4,J,X,G
+
+  14,U,X,G
+   4,U,J,X,G
+  24
+  15,J,X
+  21,D,G
+   1,U,G
+   8,R,G
+   4,R,U,G
+  16,R,U,J,X,G
+   4,R,G
+  15,R,D,X,G
+  18,R,X,G
+   4,R,X
+
+   7,R,U,G
+   5
+   1,R,U,G
+   5
+   1,R,U,G
+  19
+   8,R,U,G
+   9,U,G
+   1,R,U,G
+   2,R,G
+  12,R,D,J,X,G
+# 1071 (0:22.312)
+</inputs></tas>
