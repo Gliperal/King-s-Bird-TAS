@@ -1,0 +1,84 @@
+<tas stage="Forest Ruins" rerecords="211"><inputs>
+  29
+  30,L,J,X
+   2,L,D,G
+  10,U,X,G
+   5,J,X
+   6,X
+   6,J,X
+   4,X
+   1,L,D,X
+  10,X,G
+   7,L,D,X,G
+   3,D,X,G
+   6,D,G
+   6,L,U,G
+   1,L,G
+  11,U,X,G
+   6,R,U,X,G
+  15,X
+   4,L,J,X
+   3,R
+  11,L
+   6,J,X
+   8
+   1,D,X
+  10,D,G
+   6,L,D,X,G
+   4,X
+   5,L,U,G
+</inputs><branch active="0"><b name="main branch"><inputs>
+   3,D,G
+   1
+   4,D,G
+   3,R,D,G
+   4,D,X,G
+   4,R,G
+   3,L,D,G
+   1,L,G
+   1
+   2,L,X,G
+   2,X
+   1,X,G
+   1,D,G
+   2,L,U,G
+   6,U,G
+   5,R,U,G
+   2,R,G
+   1,L,U,G
+   5,L,G
+   7,L,D,G
+  13,D,G
+   3,L,G
+   2
+   9,L,U,X,G
+# 301 (0:06.271)
+
+</inputs></b><b name="extra glide"><inputs>
+   3,D,G
+   2
+   5,R,D,G
+   2,R,X,G
+   3,X
+   4,R,G
+   3,L,D,G
+   1,L,G
+   1
+   2,L,X,G
+   2,X
+   1,X,G
+   1,D,G
+   2,L,U,G
+   6,U,G
+   5,R,U,G
+   2,R,G
+   1,L,U,G
+   5,L,G
+   7,L,D,G
+  13,D,G
+   3,L,G
+   2
+   9,L,U,X,G
+# 301 (0:06.271)
+
+</inputs></b></branch></tas>
