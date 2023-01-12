@@ -1,0 +1,194 @@
+<tas stage="Sky Ruins" rerecords="301"><inputs>
+  29
+</inputs><branch active="2"><b name="benchmark (RTA strat)"><inputs>
+   7,L,U,X
+   4,D,G
+  10,L,U,J,X,G
+  24
+  10,D,G
+  29,L,G
+   6,L,U,J,X,G
+  24
+  10,D,G
+  24,L,G
+   6,U,J,X,G
+  24
+   7,D,G
+   7,L,D,G
+  28,L,G
+   4,U,G
+   5,G
+   1,L,D,G
+   3,L,G
+   6,L,D,J,X,G
+  24
+   5,D,G
+   2,L,U,G
+   1
+   8,L,U,J,X,G
+  24
+   4,D,G
+  13,L,G
+   1,L,U,G
+   6,L,J,X,G
+  24
+   4,D,G
+   2
+   8,L,U,J,X,G
+  12
+# 39.53 @ 406
+
+</inputs></b><b name="shorthop to ramp"><inputs>
+   5,L,J,X
+  18
+   2,D,G
+  14
+   5,L,U,X,G
+  14,X,G
+   5,J,X,G
+  18
+   5,D,G
+   2,L,U,G
+   1
+   0,L,U,J,X,G
+
+</inputs></b><b name="glide down to ramp"><inputs>
+   7,L,U,X
+   4,D,G
+  23,L,U,X,G
+   9,D,G
+   6,L,U,X,G
+   5,J,X,G
+  18
+   5,D,G
+   1,L,G
+</inputs><branch active="2"><b name="RTA strat"><inputs>
+  12,L,U,J,X,G
+  24
+  10,D,G
+  17,L,G
+   1
+   7,U,J,X,G
+  24
+# 1408.48 @ 188
+
+</inputs></b><b name="shorthops"><inputs>
+  11,L,U,J,X,G
+  18
+  10,D,G
+   3,L,U,G
+   1
+  10,U,J,X,G
+  18
+   4,D,G
+   1,L,G
+   0,L,U,X,G
+# 1360.35 @ 188
+
+</inputs></b><b name="glide down into full jump"><inputs>
+  14,L,U,X,G
+   8,D,G
+   9,L,G
+   2,L,U,G
+   1,U,G
+   6,L,U,J,X,G
+  24
+   6,D,G
+   6,L,U,G
+   1,L,X,G
+   3,D,G
+   9
+  30,L,G
+   2,L,U,G
+   5,G
+   2,U,G
+   3,G
+</inputs><branch active="2"><b name="bighops"><inputs>
+   7,L,D,J,X,G
+  24
+   5,D,G
+   4,L,U,G
+   1
+   6,L,U,J,X,G
+  24
+   2,D,G
+  10
+   8,L,U,J,X,G
+  24
+   4,D,G
+   1,L,D,G
+   1,L,U,G
+   1,L,G
+   3,L,U,G
+   0,L,J,X,G
+# 2259 @ 377
+
+</inputs></b><b name="shorthops"><inputs>
+   6,L,D,J,X,G
+  18
+   3,D,G
+   1,L,D,G
+   7,L,U,J,X,G
+  18
+   3,D,G
+   1
+   3,L,U,G
+   4,L,J,X,G
+  18
+   1,L,D,G
+   2,D,G
+   1
+   7,L,U,J,X,G
+  18
+   1,L,D,G
+   2,D,G
+   1,L,U,G
+   1
+   2,L,U,G
+   5,J,X
+  18
+# 2171.69 @ 375
+# suprisingly comparable speed
+
+</inputs></b><b name="better approach to the end"><inputs>
+   6,L,D,J,X,G
+  18
+   3,D,G
+   1,L,D,G
+   7,L,U,J,X,G
+  18
+   3,D,G
+   1
+   3,L,U,G
+   4,L,X,G
+   1,U,X,G
+   6
+  11,L,G
+   1,U,G
+   5,L,J,X,G
+  18
+   1,L,D,G
+   2,D,G
+   4,L,G
+   6,L,U,J,X,G
+  18
+   1,L,D,G
+   5,D,G
+   5,R,D,G
+   3,R,G
+   5,L,D,G
+   1
+   4,L,G
+   7,L,U,G
+   3,U,G
+   1,L,U,G
+   4,G
+   1,U,G
+  18,G
+   1,L,G
+   2,L,D,G
+   1,G
+   6,L,D,G
+# 443 (0:09.229)
+
+</inputs></b></branch></b></branch></b></branch></tas>
