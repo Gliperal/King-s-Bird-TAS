@@ -1,0 +1,106 @@
+<tas stage="Lake Ruins" rerecords="225"><inputs>
+  29
+</inputs><branch active="0"><b name="ceiling strat"><inputs>
+   7,L,U,X
+   6,D,G
+   5,D,J,X,G
+   1,R,J
+  15
+   1,L,X
+  10
+  15,U,G
+   3,G
+   6,L,U,G
+   3,G
+   6,L,U,G
+   3,G
+   6,L,U,G
+   1,G
+   8,U,G
+  13,X
+   1,X,G
+   2,D,G
+   9,L,G
+   1,L,U,G
+  16,U,G
+   1,G
+   8,D,J,X,G
+# 14.01 @ 171
+  24
+   7,D,G
+  10,G
+   7,L,U,G
+   8,G
+   9,L,G
+   1,L,U,G
+   6,U,J,X,G
+  24
+   3,D,G
+   7
+   3,L,U,G
+  17,U,G
+   6,R,U,J,X,G
+   6,R
+   4,L,J,X
+  15
+   3,X
+   7,D,G
+  11,L,U,X,G
+   6,D,G
+  15,L,D,G
+  19,L,G
+   2,U,G
+   4,L,X,G
+   2,D,G
+  10,G
+  15,L,G
+   6,U,J,X,G
+  24
+  14,G
+  13,L,G
+   1
+   1,U,G
+   8,L,J,X,G
+  14
+# 508 (0:10.583)
+
+</inputs></b><b name="RTA strat"><inputs>
+   7,L,U,X
+   4,D,G
+  10,L,U,J,X,G
+  24
+   6,D,G
+  23,L,G
+   2,L,U,G
+  12,U,G
+   4,L,G
+   8,L,D,J,X,G
+  42,U,X
+   0,L,D,J,X,G
+# 3.00 @ 172
+
+</inputs></b><b name="semi-ceiling strat"><inputs>
+   7,L,U,X
+   6,D,G
+   5,D,J,X,G
+   1,R,J
+  15
+   1,L,X
+  21
+   5,L,U,G
+   2,U,G
+  12,L,G
+   9,U,G
+   2,L,G
+   7,D,J,X,G
+  40,U,X
+   6,L,D,J,X,G
+# 3.00 @ 163
+  24
+  11,D,G
+  46,L,G
+   1,L,U,G
+   4,U,G
+   0,L,U,X,G
+
+</inputs></b></branch></tas>
