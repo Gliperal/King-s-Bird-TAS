@@ -1,0 +1,159 @@
+<tas stage="Home" rerecords="386"><inputs>
+ 438
+   3,R,X
+  11,L
+   1,R
+   6,L
+  19
+  20,U,X
+   1,J
+  17,R
+  31,L,X
+</inputs><branch active="0"><b name="main branch"><inputs>
+   1,L,D,X
+   7,L,U,X
+  25
+   6,J,X
+ 103,X
+# 31.03 -> 23.47
+   5,X
+   1,J,X
+   1,X
+   4,R,J,X
+  19,X
+   4,L,J,X
+  13
+   1,R,U,J,X
+   3,L,J,X
+  75
+</inputs><branch active="0"><b name="main branch"><inputs>
+   6,J,X
+  34,X
+  13
+   3,X
+   6,J,X
+   1,R
+   6,X
+# -18.70
+   5,J,X
+   6,X
+   7
+   2,R
+  17,X
+   5,J,X
+   7,X
+</inputs><branch active="0"><b name="main branch"><inputs>
+   9
+   8,X
+   5,J,X
+   1
+   5,J,X
+  39,X
+  24
+   4,X
+   9
+   3,X
+   6,J,X
+   4,X
+   7
+   2,R
+  10,X
+   3,R,X
+   1,X
+  82
+   2,X
+  25,D
+</inputs><branch active="2"><b name="main branch"><inputs>
+   1
+   5,R,D
+ 100
+   7,L,J,X
+   0
+# 1374
+
+</inputs></b><b name="unnamed branch"><inputs>
+  10,X
+ 107
+  14,X
+   1,J,X
+   0
+# 1416
+
+</inputs></b><b name="unnamed branch"><inputs>
+   1
+   7,R,D
+  96
+   6,J,X
+   1,X
+   1,J,X
+   2,L,X
+  50
+  27,R
+# 1373
+
+# Home 2 start at -11340.0869, -2592
+
+</inputs></b></branch></b><b name="fun"><inputs>
+   2
+   8,R
+  15,X
+   1,J,X
+  30
+  16,R
+   1,R,U,J,X
+   3,L,J,X
+
+</inputs></b></branch></b><b name="unnamed branch"><inputs>
+   5,J,X
+  31
+   5,J,X
+  10
+   5,J,X
+   0,X
+# -18.57
+
+</inputs></b></branch></b><b name="unnamed branch"><inputs>
+   1,L,D,X
+   7,L,U,X
+  25
+   6,J,X
+   5,R
+  99,X
+# 31.78 -> 23.72
+   7,X
+   1,J,X
+   1,X
+   4,R,J,X
+  13,X
+  99,L,J,X
+
+</inputs></b><b name="unnamed branch"><inputs>
+   1,L,D,X
+   7,L,U,X
+
+
+   3,R
+  21
+   6,J,X
+ 111,X
+# 31.91 -> 23.59
+   1,J,X
+   1,X
+   4,R,J,X
+  12,X
+  99,L,J,X
+
+
+   4,R
+  19
+   1,X
+   6,J,X
+ 111,X
+# 31.94 -> 23.67
+   1,J,X
+   1,X
+   4,R,J,X
+  12,X
+  99,L,J,X
+
+</inputs></b></branch></tas>
