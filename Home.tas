@@ -1,4 +1,4 @@
-<tas stage="Home" rerecords="386"><inputs>
+<tas stage="Home" rerecords="891" spawn="683.58385, 4592.00"><branch active="1"><b name="Segment 1"><inputs>
  438
    3,R,X
   11,L
@@ -90,8 +90,7 @@
   50
   27,R
 # 1373
-
-# Home 2 start at -11340.0869, -2592
+2653
 
 </inputs></b></branch></b><b name="fun"><inputs>
    2
@@ -156,4 +155,198 @@
   12,X
   99,L,J,X
 
-</inputs></b></branch></tas>
+</inputs></b></branch></b><b name="Segment 1 (collapsed)"><inputs>
+
+</inputs></b></branch><branch active="1"><b name="Segment 2"><inputs>
+# -11340.0869, -2592
+  29
+   5,R,J,X
+  36
+   6,J,X
+  50
+  18,X
+   5,J,X
+  36
+   2,X
+   6,J,X
+  20,X
+  18,D
+   5,X
+   6,J,X
+   1,X
+   1,J,X
+   1,X
+   4,L,J,X
+   1,X
+   4,R,J,X
+   1,X
+   4,L,J
+  10
+   4,R,J
+   2
+  18,X
+   6,J,X
+  16
+</inputs><branch active="0"><b name="main branch"><inputs>
+  17,J,X
+  22,X
+   1,D
+   7
+  17,L,D
+   6,J
+   7
+   7,L
+   6,J,X
+   6
+   4,L,J,X
+   4
+   4,R,J,X
+   3
+   4,L,J,X
+   2
+   4,R,J,X
+   2
+   4,L,J,X
+   2
+   4,R,J,X
+   1
+   4,L,J,X
+   1
+   4,R,J,X
+   1
+   4,L,J,X
+   1
+   4,R,J,X
+   1
+   4,L,J,X
+   3,X
+  11,L
+   5,U,X
+   2,R,D,J,X
+  20,X
+   6,R,D,X
+   6,J,X
+  37
+   6,J,X
+  72,X
+   5,J,X
+  57
+   1,L
+   1,X
+   5,J,X
+   7,X
+   9
+  24,J,X
+# 750
+ 447
+
+</inputs></b><b name="cave route"><inputs>
+  19,X
+   6,L,X
+   1,X
+   3,L,X
+   1,J
+   1,L
+  35
+   6,J,X
+  16
+   6,J,X
+   9,X
+  25,D
+   6,J,X
+   2,X
+   1,J,X
+   8,X
+   4,L,J,X
+   9,R,D
+  18,D
+   6,J,X
+   2,X
+   1,J,X
+  12,X
+   4,R,J,X
+  24,X
+   2,J,X
+   1,X
+   4,L,J,X
+  25,X
+   4,R,J,X
+   5,X
+   1,D
+  17
+   1,L,U,J
+   3,R,J
+  39
+   6,J,X
+  46
+   4,R,X
+   5,J,X
+  22,X
+   1
+   2,L
+  11
+   5,J,X
+   6,X
+   9
+   0,J,X
+# 780 ish?
+
+</inputs></b></branch></b><b name="Segment 2 (collapsed)"><inputs>
+
+</inputs></b></branch><branch active="1"><b name="Segment 3"><inputs>
+# -1807.40, 608
+  29
+   7,L
+   6,R,J,X
+  10,X
+   9
+  23,X
+   1,L
+   5,J,X
+  10,X
+   9
+   5,X
+   6,J,X
+  23,X
+# 143
+ 618
+
+</inputs></b><b name="Segment 3 (collapsed)"><inputs>
+
+</inputs></b></branch><branch active="1"><b name="Segment 4"><inputs>
+# 225.9274, 4080.00
+  29
+   6,R,J,X
+  15,R,X
+   6,R,J,X
+  15,R,X
+</inputs><branch active="0"><b name="main branch"><inputs>
+   6,R,J,X
+   5
+   4,L,J
+  39,L
+# 125
+
+</inputs></b><b name="unnamed branch"><inputs>
+   6
+   6,L,J,X
+  10,L
+  23,R,U,X
+   6,L,D,J,X
+# 128?
+
+</inputs></b></branch></b><b name="Segment 4 (collapsed)"><inputs>
+
+</inputs></b></branch><branch active="0"><b name="Segment 5"><inputs>
+# 683.58385, 4592.00
+  99
+   5,R,J,X
+  36
+   6,J,X
+  99
+
+</inputs></b><b name="Segment 5 (collapsed)"><inputs>
+
+</inputs></b></branch><inputs>
+
+</inputs></tas>
