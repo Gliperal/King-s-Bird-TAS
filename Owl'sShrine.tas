@@ -1,0 +1,104 @@
+<tas stage="Owl&apos;s Shrine" rerecords="153"><branch active="1"><b name="enter -> dream"><inputs>
+  29
+   7,R,U,X,G
+   3,D,G
+  11,U,J,X,G
+  18
+   6,D,G
+   8,R,U,X,G
+</inputs><branch active="2"><b name="glide"><inputs>
+  13,U,X,G
+   1,X,G
+   6,D,G
+  10,R,U,X,G
+   0,R,X,G
+# 21.92 @ 126
+
+</inputs></b><b name="shorthop"><inputs>
+   6,U,J,X,G
+  18
+   8,D,G
+   1
+   9,R,U,G
+   0,U,X,G
+# 22.65 @ 128
+
+</inputs></b><b name="painful bonk but it works"><inputs>
+  13,U,X,G
+   5,D,G
+   2,R,X,G
+   4,D,G
+   1
+   5,R,U,G
+   1,U,X,G
+# 22.99 @ 124
+</inputs><branch active="1"><b name="glide off"><inputs>
+  18,X
+   5,J,X
+  18
+   2,D,G
+   1
+  11,U,X,G
+   1,D,G
+   8
+   2,U,G
+   0,R,X,G
+# 29.03 @ 185
+
+</inputs></b><b name="jump up"><inputs>
+  24,X
+   5,J,X
+   8
+   5,J,X
+  18
+   5,D,G
+   1,R,D,G
+   3,R,U,G
+   1
+   2,R,U,X,G
+# 29.44 @ 185
+   5,X
+   5,J,X
+  18
+   2,D,G
+   2,R,U,G
+   3,R,X,G
+   1,D,G
+   7
+   1,R,G
+   1,R,U,X,G
+   9,X
+   5,J,X
+  19,X
+   2,X,G
+   1,R,D,G
+   6
+   1,R,G
+   1,R,U,G
+   8,R,X,G
+   6,J,X
+  19,X
+   2,R,U,X,G
+   1,U,X,G
+  15,X,G
+   1,U,X,G
+   3,X,G
+   3,R,D,X,G
+# 332
+
+</inputs></b></branch></b></branch></b><b name="dream -> exit"><inputs>
+# 6959.609, 416.00
+ 342
+   5,R,J,X
+  18
+  36,R,D,G
+   6,R,U,G
+   1
+   4,R,U,X,G
+   6,J,X,G
+  16
+   6,J,X
+  33,X
+   1,C
+
+</inputs></b></branch></tas>

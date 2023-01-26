@@ -1,0 +1,116 @@
+<tas stage="Eagle&apos;s Shrine" rerecords="215"><inputs>
+
+</inputs><branch active="0"><b name="enter -> dream"><inputs>
+  29
+   6,R,J,X
+  24
+   4,D,G
+  10,R,U,J,X,G
+  36,X
+   1,X,G
+# 16.88 @ 111
+   2,D,G
+   9
+   3,R,U,G
+   8,U,J,X,G
+   1
+   2,L
+   5
+   6,J,X
+   5
+   5,J,X
+  28
+   1,U,G
+  10,R,U,X,G
+   6,J,X
+   4,U,X,G
+   1,R,U,X,G
+   6,R,D,X,G
+   4,D,G
+   1
+   1,R,U,G
+   7,U,X,G
+   2,D,G
+   2
+   1,R,U,G
+   1,U,X,G
+  17,X
+   6,J,X
+   2,X,G
+   3,R,D,X,G
+   5,R,X,G
+   1,R,D,X,G
+  32,R,X,G
+   6,J,X
+   2,X,G
+   1,R,X,G
+  13,R,D,X,G
+</inputs><branch active="1"><b name="main branch"><inputs>
+   1,R,D,G
+   1,D,G
+   2,R,G
+   2,R,U,X,G
+   8,X
+   6,J,X
+   7,X,G
+   4,U,X,G
+   4,L,U,X,G
+   3,X,G
+   1,U,X,G
+   5,R,U,X,G
+   5,R,X,G
+   6,R,D,X,G
+  13,R,X,G
+# 388
+
+</inputs></b><b name="unnamed branch"><inputs>
+   1,R,U,X,G
+   5,U,X,G
+   5,L,U,X,G
+   8,U,X,G
+   4,R,J,X
+   8,X,G
+   1,R,X,G
+   5,R,D,X,G
+   5,D,G
+   1,R,G
+   4,R,U,X,G
+   1,R,D,G
+   2
+   1,R,U,G
+   8
+   4,R,U,X,G
+# 382
+
+</inputs></b></branch></b><b name="unnamed branch"><inputs>
+  29
+   7,R,U,X,G
+   3,D,G
+  21,R,U,X,G
+   9,R,D,X,G
+   8,D,G
+  11,R,U,G
+   6,R,U,J,X,G
+   5,X,G
+   7,R,D,X,G
+  11,D,G
+   0,R,U,X,G
+# 17.85 @ 122
+
+</inputs></b><b name="dream -> fallen kingdom"><inputs>
+ 443
+   6,R,J,X
+  24
+   5,D,G
+   6,R,G
+  21,R,U,X,G
+   6,D,G
+   5,G
+   1,R,U,G
+   5,R
+   1,R,U,G
+   4,G
+   1,C
+# 528
+
+</inputs></b></branch></tas>
