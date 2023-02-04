@@ -1,0 +1,17 @@
+<tas stage="The Aftermath" rerecords="82"><inputs>
+ 195
+</inputs><branch active="1"><b name="cage ending"><inputs>
+  35,L,U,X
+  10,D,G
+   3,L,U,X,G
+  17,R
+</inputs></b><b name="cloaks ending"><inputs>
+  35,R,U,X
+  10,D,G
+   3,R,U,X,G
+  17,L
+</inputs></b></branch><inputs>
+ 252,C
+   0
+
+</inputs></tas>
