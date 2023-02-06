@@ -1,0 +1,47 @@
+<tas stage="Dripping Vine Woods" rerecords="73"><inputs>
+  29
+</inputs><branch active="0"><b name="0 -> 1"><inputs>
+   7,R,U,X,G
+   1,R,U,G
+   6,D,G
+  20,D,X,G
+   5,J,X,G
+  23
+   1,C
+
+</inputs></b><b name="1 -> 2"><inputs>
+   7,R,U,X,G
+   3,D,G
+   6,U,G
+   6,U,J,X,G
+   1
+   1,C
+
+</inputs></b><b name="2 -> 3"><inputs>
+   6,R,J,X
+  21
+   6,R,J,X
+  20
+   1,C
+
+</inputs></b><b name="3 -> 0"><inputs>
+   7,L,U,X,G
+   1,U,X,G
+   1,L,X,G
+   6,D,G
+  18,D,X,G
+   5,J,X,G
+  18,X
+   1,X,G
+   2,D,G
+   1,L,G
+   2,U,G
+   7,L,X,G
+   6,J,X
+   1,X
+   6,J,X
+   7,X
+   4,L,D,X,G
+   1,C
+
+</inputs></b></branch></tas>
