@@ -1,0 +1,54 @@
+<tas stage="Quiet Valley Woods" rerecords="131"><inputs>
+  29
+</inputs><branch active="0"><b name="0 -> 1"><inputs>
+   7,R,U,X,G
+  15,D,G
+   1,R,G
+  31,R,U,X,G
+   6,J,X
+   1
+   0,J,X
+   4,X
+   3,R,D,X,G
+   1,R,D,X,G,C
+
+</inputs></b><b name="1 -> 2"><inputs>
+# also 2 -> 3
+   7,R,U,X,G
+   3,D,G
+   6,U,G
+   6,U,J,X,G
+   1
+   1,C
+
+</inputs></b><b name="3 -> 4"><inputs>
+   7,R,U,X,G
+   3,D,G
+   6,U,G
+   6,U,J,X,G
+   1,C
+
+</inputs></b><b name="4 -> 0"><inputs>
+   7,L,U,X,G
+   4,D,G
+   3,L,U,G
+   1
+   5,L,J,X
+  23,X
+   6,U,X,G
+   2,L,D,X,G
+   3,D,X,G
+  10,D,G
+   1,L,G
+   3,X,G
+   6,J,X
+   1,X
+   6,J,X
+   8
+   6,J,X
+   3
+   1,R
+   6,X
+   1,C
+
+</inputs></b></branch></tas>
