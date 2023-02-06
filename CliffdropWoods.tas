@@ -1,0 +1,66 @@
+<tas stage="Cliffdrop Woods" rerecords="81"><inputs>
+  29
+</inputs><branch active="0"><b name="0 -> 2"><inputs>
+   7,R,U,X,G
+   3,D,G
+   7,U,X,G
+   6,U,J,X,G
+   7,X,G
+   7,R,D,X,G
+   3,D,X,G
+   6,D,G
+   1,G
+   6,R,U,G
+   8,U,X,G
+   7,D,G
+   1,G
+   9,R,U,J,X,G
+  12,X
+   1,C
+
+</inputs></b><b name="0 -> 2 (alt.)"><inputs>
+   6,R,U,X,G
+   1,R,U
+   4,D,G
+  10,R,U,J,X,G
+  10
+   1,L
+   5,J,X
+  18
+   5,D,G
+   1,G
+   4,D,G
+  12,D,X,G
+   5,J,X
+   0,X
+
+</inputs></b><b name="2 -> 3"><inputs>
+   7,R,U,X,G
+   3,D,G
+   6,U,G
+   6,U,J,X,G
+   1
+   1,C
+
+</inputs></b><b name="3 -> 4"><inputs>
+   7,R,U,X,G
+   3,D,G
+   6,U,G
+   6,U,J,X,G
+   1,C
+
+</inputs></b><b name="4 -> 0"><inputs>
+   7,L,U,X,G
+   4,D,G
+   3,L,U,G
+   1
+   5,L,J,X
+  36,X
+   4,U,X,G
+  10,X,G
+   1,L,X,G
+   2,D,X,G
+  30,X
+   1,C
+
+</inputs></b></branch></tas>
