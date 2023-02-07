@@ -1,6 +1,6 @@
 <tas stage="The Aftermath" rerecords="82"><inputs>
  195
-</inputs><branch active="1"><b name="cage ending"><inputs>
+</inputs><branch active="0"><b name="cage ending"><inputs>
   35,L,U,X
   10,D,G
    3,L,U,X,G

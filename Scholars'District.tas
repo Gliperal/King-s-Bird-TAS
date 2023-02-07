@@ -1,0 +1,118 @@
+<tas stage="Scholars&apos; District" rerecords="194"><inputs>
+  29
+</inputs><branch active="0"><b name="0 -> 1"><inputs>
+   7,L,U,X,G
+   3,D,G
+  22,U,X,G
+   9,L
+   4,L,U,G
+   1,C
+# 75
+
+</inputs></b><b name="0 -> 4"><inputs>
+   7,L,U,X,G
+   3,D,G
+  22,U,X,G
+   6,D,G
+   1
+   4,L,U,G
+   8,U,X,G
+  13,X
+   1,X,G
+   5,D,G
+   6,L,G
+   4,L,U,G
+   9,L,X,G
+   1,C
+# 119
+
+</inputs></b><b name="1 -> 0"><inputs>
+   5,R,U,J,X
+  18,R
+   5,U,X,G
+   4,R,D,X,G
+   5,D,X,G
+   6,D,G
+   3,R,U,J,X,G
+   7
+   1,C
+# 83
+
+</inputs></b><b name="1 -> 2"><inputs>
+   7,L,U,X,G
+   3,D,G
+   5,U,G
+   6,J,X
+   1
+   1,C
+# 52
+
+</inputs></b><b name="2 -> 1"><inputs>
+   7,R,U,X,G
+   3,D,G
+   5,U,G
+   6,J,X
+   1
+   1,C
+# 52
+
+</inputs></b><b name="2 -> 3"><inputs>
+   7,L,U,X,G
+   7,D,G
+  10,L,U,X,G
+   6,J,X,G
+   1
+   1,C
+# 61
+
+</inputs></b><b name="3 -> 2"><inputs>
+   7,R,U,X,G
+   3,R,X,G
+   7,U,J,X,G
+  17
+   1,C
+# 64
+
+# frame ties:
+#   7,R,X,G
+#   5,R,J,X,G
+#   1,R,X
+#   0,R,J,X
+
+</inputs></b><b name="3 -> 4"><inputs>
+   7,L,U,X,G
+  10,D,G
+   6,L,U,J,X,G
+   1,C
+# 53
+
+</inputs></b><b name="4 -> 0"><inputs>
+   5,R,X,G
+   5,R,J,X
+  13,X
+</inputs><branch active="1"><b name="main branch"><inputs>
+   7,X
+  13,U,X,G
+   6,R,D,X,G
+   2,D,X,G
+   0,R,X,G
+
+</inputs></b><b name="unnamed branch"><inputs>
+   5,J,X
+  19,X
+   1,X,G
+   3,R,D,G
+   4,D,G
+   2,U,X,G
+  10,X
+   5,J,X
+  24
+   1,C
+# 126
+
+</inputs></b></branch></b><b name="4 -> 3"><inputs>
+  23,R,J,X
+   1,C
+# 53
+
+</inputs></b></branch></tas>

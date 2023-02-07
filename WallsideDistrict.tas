@@ -1,0 +1,64 @@
+<tas stage="Wallside District" rerecords="66"><inputs>
+  29
+</inputs><branch active="0"><b name="0 -> 1"><inputs>
+   7,R,U,X,G
+   3,D,G
+   6,U,G
+   5,U,J,X,G
+  30
+   1,C
+
+</inputs></b><b name="1 -> 2"><inputs>
+   7,R,U,X,G
+   3,D,G
+   6,U,G
+   6,U,J,X,G
+   1
+   1,C
+
+</inputs></b><b name="2 -> 3"><inputs>
+   7,R,U,X,G
+   3,D,G
+   6,U,G
+   6,U,J,X,G
+   3
+   1,C
+
+</inputs></b><b name="3 -> 0"><inputs>
+   7,L,U,X,G
+   3,D,G
+   5,U,G
+   4,X
+   5,U,J,X
+  22,X
+   1,X,G
+   2,D,G
+   1
+   1,L,G
+   5,U,J,X,G
+  17
+   1,C
+
+</inputs></b><b name="4 -> 0"><inputs>
+   7,L,U,X,G
+   3,D,G
+   1
+   5,L,U,X,G
+   5,L,J,X
+   7,X
+   1,R,X,G
+   1,R,D,G
+   2,D,G
+   1,L,U,G
+   1,U,G
+   5,U,J,X,G
+  18,X
+   1,X,G
+   2,D,G
+   1,L,G
+   1,U,G
+   5,U,J,X,G
+  13
+   1,C
+
+</inputs></b></branch></tas>
