@@ -1,0 +1,68 @@
+<tas stage="Keystone Isles" rerecords="103"><inputs>
+  29
+</inputs><branch active="0"><b name="0 -> 2"><inputs>
+   7,R,U,X,G
+   3,D,G
+   6,U,G
+   5,U,J,X,G
+  18
+   6,D,G
+   8,R,U,G
+  10,U,X,G
+   6,J,X
+   1,X
+   6,J,X
+  10,X
+   6,J,X
+  10,X
+   6,J,X
+  16,X
+   1,X,G
+   4,R,D,X,G
+   2,D,X,G
+   4,D,G
+   1,R,D,G
+   3,R,U,G
+   3
+   2,X
+   5,J,X
+  13,X
+   1,C
+# 192
+
+</inputs></b><b name="2 -> 3"><inputs>
+# also 3 -> 4
+   7,R,U,X,G
+   3,D,G
+   6,U,G
+   6,U,J,X,G
+   1
+   1,C
+# 53
+
+</inputs></b><b name="4 -> 0"><inputs>
+   7,L,U,X,G
+   3,D,G
+   6,U,G
+   1,U,X,G
+   6,J,X
+   5,X
+   1,X,G
+   4,D,G
+   6,J,X
+  16,X
+   1,X,G
+   2,D,G
+   1,L,G
+   2,U,G
+   1,L,X,G
+  15,U,X,G
+   8,D,G
+   1
+  24,L,U,X,G
+   5,J,X,G
+  24
+   1,C
+# 169
+
+</inputs></b></branch></tas>
