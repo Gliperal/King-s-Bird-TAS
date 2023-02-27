@@ -1,0 +1,71 @@
+<tas stage="Forest Dream" rerecords="162"><branch active="0"><b name="12 trees (unoptimized)"><inputs>
+  11,D
+   8,R
+   7,R,U
+# 143.38, -240.86 @ 26
+   5,R,U
+   3,U
+# 303.51, -281.89 @ 34
+   9,R
+# 473.05, -278.81 @ 42
+   7,U
+# 641.51, -247.04 @ 50
+  31
+   7,U
+  17
+   7,U
+  17
+   7,U
+  17
+   7,U
+  17
+   7,U
+  17
+   7,U
+  17
+   7,U
+   6
+# 238
+
+</inputs></b><b name="9 trees: ryu strat"><inputs>
+  17,R,D
+   1,R
+  10,R,U
+   1
+   2,R,U
+   1,U
+# 335.96, -241.43 @ 32
+   5,U
+   3,R
+   1,D
+   2,R
+# 560.05, -240.84 @ 43
+   1,R
+   3,U
+   7,R
+# 785.86, -240.04 @ 54
+   4,U
+   7
+   8,L,U
+  10,L,D
+  15,L,U
+   9,L,D
+  15,L,U
+  10,L,D
+  18,L,U
+   9,L,D
+  15,L,U
+   9,L,D
+  16,L,U
+   9,L,D
+  15,L,U
+   9,L,D
+  15,L,U
+  10,L,D
+  15,L,U
+  10,L,D
+  15,L,U
+# 243-244 ish, and the two trees on the sides aren't fully grown
+# could shift the whole pattern over 150 units, but that would probably cost another 6 frames
+
+</inputs></b></branch></tas>
