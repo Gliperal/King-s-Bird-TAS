@@ -1,27 +1,35 @@
-<tas stage="Lake Dream" rerecords="207"><inputs>
-   7,D
-   9,R
-   9,R,U
-   3,R
-   8,U
-  13,L,U
-   8,U
-   8,L
-  11,L,D
-   8,D
-  30,L,D
-  13,L,U
-   5,D
-  10,L,U
-  11,U
-   6,R,U
-   3,R
-   6
-   8,R
-   8,R,D
-   3
+<tas stage="Lake Dream" rerecords="342"><inputs>
+   4,R
+  10,D
+   1
    6,R
+  11,R,U
+   7,U
+   1,L,U
+   1,U
+   9,L,U
+   3,L
+   1,L,U
+   8,U
+   7,L
+   8,L,D
+   3,L,D
+   8,D
+  29,L,D
+  12,L,U
+   2,D
+   7
+   5,L,U
+   2,U
+   1
+   5,U
+  10,R,U
+   3,R
+   9,U
+   8,R
+  11,R,D
   13,D
-# 206
+# 208
+ 840
 
 </inputs></tas>
