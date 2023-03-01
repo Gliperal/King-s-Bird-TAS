@@ -1,4 +1,4 @@
-<tas stage="Home" rerecords="891" spawn="683.58385, 4592.00"><branch active="1"><b name="Segment 1"><inputs>
+<tas stage="Home" rerecords="945" spawn="683.58385, 4592.00"><branch active="1"><b name="Segment 1"><inputs>
  438
    3,R,X
   11,L
@@ -337,16 +337,32 @@
 
 </inputs></b></branch></b><b name="Segment 4 (collapsed)"><inputs>
 
-</inputs></b></branch><branch active="0"><b name="Segment 5"><inputs>
+</inputs></b></branch><branch active="1"><b name="Segment 5"><inputs>
 # 683.58385, 4592.00
-  99
+# cutscene @ x1016.00
    5,R,J,X
-  36
-   6,J,X
-  99
+  18
+   5,R,G
+   9,U,G
+# 37
+2021
 
 </inputs></b><b name="Segment 5 (collapsed)"><inputs>
 
-</inputs></b></branch><inputs>
+</inputs></b></branch><branch active="0"><b name="Segment 6"><inputs>
+# 3677.30, 832.00
+  29
 
-</inputs></tas>
+
+   7,R,X,G
+  10,D,G
+   0,R,U,X,G
+
+
+   6,R,J,X
+  24
+   0,D,G
+
+</inputs></b><b name="Segment 6 (collapsed)"><inputs>
+
+</inputs></b></branch></tas>
