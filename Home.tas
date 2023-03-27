@@ -1,9 +1,10 @@
-<tas stage="Home" rerecords="945" spawn="683.58385, 4592.00"><branch active="1"><b name="Segment 1"><inputs>
- 438
+<tas stage="Home" rerecords="1148"><branch active="0"><b name="Segment 1"><inputs>
+ 439
    3,R,X
-  11,L
-   1,R
-   6,L
+   1
+  10,L
+   1
+   5,L
   19
   20,U,X
    1,J
@@ -91,6 +92,8 @@
   27,R
 # 1373
 2653
+# one extra frame to prevent desyncs:
+   1
 
 </inputs></b></branch></b><b name="fun"><inputs>
    2
@@ -157,7 +160,7 @@
 
 </inputs></b></branch></b><b name="Segment 1 (collapsed)"><inputs>
 
-</inputs></b></branch><branch active="1"><b name="Segment 2"><inputs>
+</inputs></b></branch><branch active="0"><b name="Segment 2"><inputs>
 # -11340.0869, -2592
   29
    5,R,J,X
@@ -166,12 +169,13 @@
   50
   18,X
    5,J,X
-  36
-   2,X
+  35
+   1,L
+   4,X
    6,J,X
   20,X
   18,D
-   5,X
+   6,X
    6,J,X
    1,X
    1,J,X
@@ -179,25 +183,25 @@
    4,L,J,X
    1,X
    4,R,J,X
-   1,X
+   1
    4,L,J
-  10
+  11
    4,R,J
    2
-  18,X
+  19,X
    6,J,X
   16
 </inputs><branch active="0"><b name="main branch"><inputs>
   17,J,X
   22,X
    1,D
-   7
-  17,L,D
+   9
+  10,D
+   7,L,D
    6,J
-   7
-   7,L
+  14,L
    6,J,X
-   6
+   6,L
    4,L,J,X
    4
    4,R,J,X
@@ -293,7 +297,7 @@
 
 </inputs></b></branch></b><b name="Segment 2 (collapsed)"><inputs>
 
-</inputs></b></branch><branch active="1"><b name="Segment 3"><inputs>
+</inputs></b></branch><branch active="0"><b name="Segment 3"><inputs>
 # -1807.40, 608
   29
    7,L
@@ -310,10 +314,12 @@
   23,X
 # 143
  618
+# TWO extra frame to prevent desyncs:
+   2
 
 </inputs></b><b name="Segment 3 (collapsed)"><inputs>
 
-</inputs></b></branch><branch active="1"><b name="Segment 4"><inputs>
+</inputs></b></branch><branch active="0"><b name="Segment 4"><inputs>
 # 225.9274, 4080.00
   29
    6,R,J,X
@@ -323,9 +329,12 @@
 </inputs><branch active="0"><b name="main branch"><inputs>
    6,R,J,X
    5
-   4,L,J
-  39,L
+   4,L,J,X
+  34,L
 # 125
+1262
+# one extra frame to prevent desyncs:
+   1
 
 </inputs></b><b name="unnamed branch"><inputs>
    6
@@ -337,32 +346,120 @@
 
 </inputs></b></branch></b><b name="Segment 4 (collapsed)"><inputs>
 
-</inputs></b></branch><branch active="1"><b name="Segment 5"><inputs>
+</inputs></b><b name="Segment 4 (from intended spawn)"><inputs>
+   5,R,J,X
+  25
+   6,J,X
+  15
+   6,J,X
+  15
+   4,J,X
+   1,X
+   4,L,J
+  34,L
+3050
+  99
+
+</inputs></b></branch><branch active="0"><b name="Segment 5"><inputs>
 # 683.58385, 4592.00
-# cutscene @ x1016.00
    5,R,J,X
   18
    5,R,G
    9,U,G
 # 37
-2021
+2050
 
 </inputs></b><b name="Segment 5 (collapsed)"><inputs>
 
 </inputs></b></branch><branch active="0"><b name="Segment 6"><inputs>
 # 3677.30, 832.00
-  29
-
-
    7,R,X,G
+   9,D,G
+   1
+  15,R,U,X,G
   10,D,G
-   0,R,U,X,G
+  22,R,D,G
+  18,R,G
+   2,U,G
+   1,X
+   1,X,G
+</inputs><branch active="1"><b name="RTA route"><inputs>
+   1,D,G
+  24,G
+   1,U,G
+  20
+   9,D,G
+   1,D,G
+   2
+   2,L,D,G
+   2,L,G
+   3,R,D,G
+   4,R,X,G
+   3,R,U,X,G
+   2,U,X,G
+   1,R,D,X,G
+   1,X,G
+   1,R,D,X,G
+   7,X,G
+   1,R,G
+   5,R,U,G
+</inputs><branch active="0"><b name="main branch"><inputs>
+   5,R,X,G
+   4,D,G
+   7,R,X,G
+   1,D,G
+  30
+   0,R,G
+# 9721
 
+</inputs></b><b name="unnamed branch"><inputs>
+  10,R,X,G
+   5,R,D,G
+  32,D,X,G
+   4,R,G
+   2,R,U,G
+   6,X
+   6,J,X
+   7,X
+   3,R,D,X,G
+   0,R,X,G
+# 9724
 
-   6,R,J,X
-  24
-   0,D,G
+</inputs></b></branch></b><b name="earlier hole"><inputs>
+   6,D,G
+  13
+   7,D,G
+   1,L,D,G
+   6,R,G
+   3,R,U,G
+   5,D,G
+   1,L,D,G
+   2,D,G
+   1,L,D,G
+   1,D,G
+   1,L,D,G
+   4,D,G
+   1,D,X,G
+   1,R,D,G
+   4,R,G
+  26
+   3,R,G
+   2,R,U,G
+  16
+   4,R,U,G
+   2,U,G
+   5,R,D,G
+  10,R,X,G
+   1,R,D,G
+   4
+   1,R,U,G
+   7,R,X,G
+   6,J,X
+   5,X
+   5,R,D,X,G
+   0,R,X,G
+# 9713
 
-</inputs></b><b name="Segment 6 (collapsed)"><inputs>
+</inputs></b></branch></b><b name="Segment 6 (collapsed)"><inputs>
 
 </inputs></b></branch></tas>
