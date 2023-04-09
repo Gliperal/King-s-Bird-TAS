@@ -1,5 +1,6 @@
-<tas stage="Forest Dream" rerecords="162"><branch active="0"><b name="12 trees (unoptimized)"><inputs>
-  11,D
+<tas stage="Forest Dream" rerecords="164" spawn="0, 64"><branch active="0"><b name="12 trees (unoptimized)"><inputs>
+   1
+  10,D
    8,R
    7,R,U
 # 143.38, -240.86 @ 26
