@@ -1,4 +1,4 @@
-<tas stage="The Aftermath" rerecords="82"><inputs>
+<tas stage="The Aftermath" rerecords="85"><inputs>
  195
 </inputs><branch active="0"><b name="cage ending"><inputs>
   35,L,U,X
@@ -12,6 +12,8 @@
   17,L
 </inputs></b></branch><inputs>
  252,C
-   0
+# one more frame cause cutscenes are random c:
+   1,C
+ 265
 
 </inputs></tas>

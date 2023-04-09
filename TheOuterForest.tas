@@ -1,4 +1,4 @@
-<tas stage="The Outer Forest" rerecords="400"><inputs>
+<tas stage="The Outer Forest" rerecords="543"><inputs>
   29
    7,R,U,X
    4,D,G
@@ -96,14 +96,15 @@
    1,R,U,G
    1,G
    2,R,D,G
-  14,D,G
-  13
-   1,L,D,G
+  13,D,G
+  14
+   2,L,D,G
+   3
+   1,D,G
    8
-   3,L,D,G
-   5,D,G
-  33
-   6,X
+   9,D,G
+  31
+   2,X
    2,R,D,G
    4,R,G
    3,R,U,G
@@ -113,19 +114,19 @@
    1,R,U,G
   23
    1,R,U,G
-  27
+  28
+   1,R,U,G
+  33
+   1,R,U,G
+  43
+   1,R,U,G
+  21
+   1,R,U,G
+  42
    1,R,U,G
   32
    1,R,U,G
-  48
-   1,R,U,G
-  16
-   1,R,U,G
-  45
-   1,R,U,G
-  29
-   1,R,U,G
-  34
+  33
    1,R,U,G
   34
    1,R,U,G
@@ -136,7 +137,7 @@
    2,R,U,G
   87
    1,R,U,G
-  23
+  21
    1,R,U,G
   12,G
    1,R,U,G
@@ -146,8 +147,7 @@
    1,R,U,G
    9,G
    1,U,G
-  10,G
-   1,U,G
-# 1506 (0:31.375)
+  11
+# 1505 (0:31.354)
 
 </inputs></tas>

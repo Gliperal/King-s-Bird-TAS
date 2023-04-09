@@ -1,4 +1,4 @@
-<tas stage="Twin Tree Village" rerecords="401"><inputs>
+<tas stage="Twin Tree Village" rerecords="541"><inputs>
   29
    7,R,U,X
    4,D,G
@@ -57,42 +57,42 @@
   14,U,X,G
    1,R,U,G
    3,R,G
-   7,G
+   6,G
+   1,U,G
    2,R,G
-   5,R,D,G
-   5,D,G
-   6,L,D,G
-   6,L,G
-   0,X,G
-   4,L,U,G
-   3,D,G
-   4,R,D,X,G
+   6,R,D,G
+   7,D,G
+   4,L,D,G
+   7,L,G
+   7,L,U,X,G
+   3,R,D,G
    5,R,G
    6,R,U,G
-   4,U,G
-   2,G
-   2,R,D,G
-   4,R,G
-   3,L,D,G
-   5,L,G
+   1,U,G
+   1,R,U,G
+   8,G
+   4,L,D,G
+   4,L,G
    2,L,U,X,G
-   8,X,G
+   6,X,G
    2,R,D,G
    5,R,G
-   5,R,U,G
+   4,R,U,G
    2,R,D,X,G
    2,D,X,G
-   2,X,G
+   3,X,G
    2,L,D,G
    5,L,G
    5,L,U,G
    4,U,G
-   1,G
-   3,L,G
+   1,L,G
    1,L,D,G
-  10,L,X,G
-   2,R,D,G
-   5,R,G
+   1,G
+   2,L,D,G
+   1,L,X,G
+   8,X,G
+   3,R,D,G
+   4,R,G
    5,R,U,X,G
    2,U,X,G
    1,R,U,X,G
@@ -103,15 +103,19 @@
    3,R,U,X,G
    1,X,G
    4,U,X,G
-  13,X,G
-  16,U,X,G
+  12,X,G
+   2,U,X,G
+   1,X,G
+  14,U,X,G
    1,R,U,G
    5,R,G
    4,R,D,G
-   3,G
-   7,D,G
-   7,L,D,G
-   4,D,G
+   2,G
+   1,R,G
+   9,D,G
+   5,L,D,G
+   2,G
+   2,D,G
    2,R,D,X,G
    2,R,D,G
    6,D,G
@@ -120,13 +124,14 @@
    5,G
    1,R,D,G
    6,G
-   3,L,D,X,G
+   2,L,D,X,G
+   1,L,D,G
    1,G
-   3,D,G
+   4,D,G
    2,R,D,G
    5,R,G
-   1
+   1,R,U,G
   18,R,X,G
-# 708 (0:14.750)
+# 705 (0:14.688)
 
 </inputs></tas>

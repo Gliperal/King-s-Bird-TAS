@@ -1,6 +1,6 @@
-<tas stage="Thorny Grove" rerecords="310"><inputs>
+<tas stage="Thorny Grove" rerecords="312"><inputs>
   29
-   8,R,U,X,G
+   7,R,U,X,G
    3,D,G
   11,R,U,J,X,G
   19
@@ -113,6 +113,6 @@
    3,D,G
   19
    5,R,U,G
-# 662 (0:13.792)
+# 661 (0:13.771)
 
 </inputs></b></branch></tas>

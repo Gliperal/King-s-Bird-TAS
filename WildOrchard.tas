@@ -1,6 +1,6 @@
-<tas stage="Wild Orchard" rerecords="364"><inputs>
+<tas stage="Wild Orchard" rerecords="365"><inputs>
   29
-   8,R,U,X,G
+   7,R,U,X,G
    3,D,G
    6,U,G
    6,U,J,X,G
@@ -121,6 +121,6 @@
    2,G
    1,U,G
    8,L,J,X,G
-# 1104 (0:23.000)
+# 1103 (0:22.979)
 
 </inputs></tas>
