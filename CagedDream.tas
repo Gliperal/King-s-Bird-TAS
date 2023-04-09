@@ -1,7 +1,5 @@
-<tas stage="Caged Dream" rerecords="166"><inputs>
-# around 6771-76 is the cage spawn
-# around -102 is the antigrav
-
+<tas stage="Caged Dream" rerecords="169"><inputs>
+   1
 </inputs><branch active="1"><b name="rta strat"><inputs>
    9,R,X
 # earliest we can jump in this level is after 9 frames for some reason
@@ -218,7 +216,8 @@
    1,R,U
    4,R
    1,R,U
-# 644
+   1
+# 646
  951
 
 </inputs></b><b name="dash back at start"><inputs>
