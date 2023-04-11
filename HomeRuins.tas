@@ -1,4 +1,4 @@
-<tas stage="Home Ruins" rerecords="498"><inputs>
+<tas stage="Home Ruins" rerecords="502"><inputs>
    2
   10,L,X
    5,L,J,X
@@ -95,5 +95,8 @@
   12
    3,L,G
    6
+  71
+   1,C
+ 188
 
 </inputs></tas>
