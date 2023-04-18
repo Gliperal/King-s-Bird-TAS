@@ -1,6 +1,6 @@
-<tas stage="The Lake Kingdom" rerecords="617"><inputs>
+<tas stage="The Lake Kingdom" rerecords="639"><inputs>
   29
-</inputs><branch active="4"><b name="0 -> 1"><inputs>
+</inputs><branch active="2"><b name="0 -> 1"><inputs>
    7,R,U,X,G
    4,D,G
    9,R,U,J,X,G
@@ -146,20 +146,21 @@
   10,U,G
    5,U,J,X,G
   16
+   1,X
    6,J,X
-   8,X
-   1,R
-   7,L
-   9,L,U,X
+   7,X
+   3,R
+   6,L
+  10,L,U,X
 </inputs><branch active="0"><b name="main branch"><inputs>
    5,L,D,J,X
   12
    6,J,X
-  17,X
+  21,X
    6,L,D,J,X
   18,X
 # 781 @ 201
-   9,L,X
+   8,L,X
    6,L,J,X
   20,X
    1,X,G

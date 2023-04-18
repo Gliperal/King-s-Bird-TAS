@@ -1,6 +1,6 @@
-<tas stage="The Sky Kingdom" rerecords="284"><inputs>
+<tas stage="The Sky Kingdom" rerecords="296"><inputs>
   29
-</inputs><branch active="3"><b name="0 -> 1"><inputs>
+</inputs><branch active="0"><b name="0 -> 1"><inputs>
    7,R,U,X,G
    3,D,G
   13,U,X,G
@@ -16,10 +16,12 @@
   18
   11,D,G
    1,R,G
-   2,R,U,G
+   3,R,U,G
    1
-   4,R,U,X,G
+   2,R,G
+   1,R,U,X,G
    6,J,X,G
+# 31.76 @ 156
   13,X,G
    4,D,G
    3,R,U,G
