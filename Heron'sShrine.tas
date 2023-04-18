@@ -1,4 +1,4 @@
-<tas stage="Heron&apos;s Shrine" rerecords="250"><branch active="1"><b name="enter -> dream"><inputs>
+<tas stage="Heron&apos;s Shrine" rerecords="252"><branch active="1"><b name="enter -> dream"><inputs>
   29
    7,R,U,X,G
    3,D,G
@@ -68,7 +68,9 @@
 # 419
 
 </inputs></b><b name="dream -> exit"><inputs>
- 376
+ 375
+# one extra frame cause cutscenes:
+   1
    5,R,J,X
   18
    7,D,G

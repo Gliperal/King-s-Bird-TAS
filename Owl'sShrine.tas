@@ -1,4 +1,4 @@
-<tas stage="Owl&apos;s Shrine" rerecords="153"><branch active="1"><b name="enter -> dream"><inputs>
+<tas stage="Owl&apos;s Shrine" rerecords="154"><branch active="1"><b name="enter -> dream"><inputs>
   29
    7,R,U,X,G
    3,D,G
@@ -89,6 +89,8 @@
 </inputs></b></branch></b></branch></b><b name="dream -> exit"><inputs>
 # 6959.609, 416.00
  342
+# one extra frame cause cutscene jank:
+   1
    5,R,J,X
   18
   36,R,D,G
