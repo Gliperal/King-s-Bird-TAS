@@ -1,0 +1,45 @@
+TheOuterForest.tas
+TheForestKingdom.tas
+ 0 -> 1
+QuietValleyWoods.tas
+ 0 -> 1
+TwinTreeVillage.tas
+QuietValleyWoods.tas
+ 1 -> 2
+RootSlides.tas
+QuietValleyWoods.tas
+ 1 -> 2
+ForestEdge.tas
+QuietValleyWoods.tas
+ 3 -> 4
+TheHollow.tas
+QuietValleyWoods.tas
+ 4 -> 0
+TheForestKingdom.tas
+ 1 -> 2
+CliffdropWoods.tas
+ 0 -> 2
+WildOrchard.tas
+CliffdropWoods.tas
+ 2 -> 3
+HiddenVillage.tas
+CliffdropWoods.tas
+ 3 -> 4
+ThornyGrove.tas
+CliffdropWoods.tas
+ 4 -> 0
+TheForestKingdom.tas
+ 2 -> 3
+DrippingVineWoods.tas
+ 0 -> 1
+HighCanopy.tas
+DrippingVineWoods.tas
+ 1 -> 2
+FoggyForest.tas
+DrippingVineWoods.tas
+ 2 -> 3
+Briar.tas
+DrippingVineWoods.tas
+ 3 -> 0
+TheForestKingdom.tas
+ 3 -> shrine

@@ -84,7 +84,7 @@
    4,X,G
    2,U,X,G
    1,X,G
-</inputs><branch><b name="unnamed branch"><inputs>
+</inputs><branch active="2"><b name="unnamed branch"><inputs>
   13,R,X,G
    1,D,G
    4,D,X,G
@@ -135,7 +135,7 @@
    3,X
    3,D,G
    4,L,G
-</inputs><branch><b name="unnamed branch"><inputs>
+</inputs><branch active="0"><b name="unnamed branch"><inputs>
    7,U,X,G
    1,X,G
    1,L,D,X,G
@@ -181,7 +181,5 @@
 # might be better with a luckier parity
 
 </inputs></b></branch></b></branch><inputs>
-
-
 
 </inputs></tas>

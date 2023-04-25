@@ -1,6 +1,6 @@
 <tas stage="Island Hamlet" rerecords="391"><inputs>
   29
-</inputs><branch><b name="left"><inputs>
+</inputs><branch active="1"><b name="left"><inputs>
    6,L,J,X
    5
   43,R,J,X
@@ -11,7 +11,7 @@
    4,L,D,X,G
    7,U,X,G
    3,R,U,X,G
-</inputs><branch><b name="unnamed branch"><inputs>
+</inputs><branch active="0"><b name="unnamed branch"><inputs>
   19,U,X,G
    1,R
   99,L,X

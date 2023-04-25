@@ -1,0 +1,44 @@
+TheSkyKingdom.tas
+ 0 -> 1
+SunriseGateIsles.tas
+ 0 -> 1
+TheCascades.tas
+SunriseGateIsles.tas
+ 1 -> 2
+LiftedArches.tas
+SunriseGateIsles.tas
+ 1 -> 2
+TheLowerCity.tas
+SunriseGateIsles.tas
+ 3 -> 4
+FallenTowers.tas
+SunriseGateIsles.tas
+ 4 -> 0
+TheSkyKingdom.tas
+ 1 -> 2
+PromenadeIsles.tas
+ 0 -> 1
+RoyalGarden.tas
+PromenadeIsles.tas
+ 1 -> 2
+IslandHamlet.tas
+PromenadeIsles.tas
+ 1 -> 2
+TheColosseum.tas
+PromenadeIsles.tas
+ 3 -> 0
+TheSkyKingdom.tas
+ 2 -> 3
+KeystoneIsles.tas
+ 0 -> 2
+TheOutskirts.tas
+KeystoneIsles.tas
+ 2 -> 3
+CollapsedBridge.tas
+KeystoneIsles.tas
+ 2 -> 3
+PrisonMines.tas
+KeystoneIsles.tas
+ 4 -> 0
+TheSkyKingdom.tas
+ 3 -> shrine

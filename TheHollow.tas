@@ -4,7 +4,7 @@
    3,R,J,X
    3,L,J,X
    4,L,X
-</inputs><branch><b name="more speed"><inputs>
+</inputs><branch active="0"><b name="more speed"><inputs>
    4,J,X
    9,R
    4,L,J,X
@@ -39,7 +39,7 @@
 # 19.93 @ 412
 # jumping here feels maybe better to just glide down?
   32,J,X
-</inputs><branch><b name="unnamed branch"><inputs>
+</inputs><branch active="1"><b name="unnamed branch"><inputs>
    8,D,G
    8
    5,R,G

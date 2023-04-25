@@ -34,7 +34,7 @@
    2,R,X,G
   24,G
    3,R,X,G
-</inputs><branch><b name="walljump"><inputs>
+</inputs><branch active="0"><b name="walljump"><inputs>
    4,X
    6,D,G
    8,R,U,G
@@ -65,7 +65,7 @@
    2,L,U,G
    1,U,J,X,G
    3,L,J,X
-</inputs><branch><b name="unnamed branch"><inputs>
+</inputs><branch active="1"><b name="unnamed branch"><inputs>
   19,L
   11,R,J
    1,L
@@ -91,7 +91,7 @@
    1,X
    2,J,X
    1,X
-</inputs><branch><b name="unnamed branch"><inputs>
+</inputs><branch active="0"><b name="unnamed branch"><inputs>
    4,L,J,X
    5
   15,X
