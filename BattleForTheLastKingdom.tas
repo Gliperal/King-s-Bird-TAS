@@ -1,8 +1,8 @@
-<tas stage="Battle for the Last Kingdom" rerecords="2015"><inputs>
+<tas stage="Battle for the Last Kingdom" rerecords="2553"><inputs>
  150
  152
 # 302
-</inputs><branch active="1"><b name="lame fight"><inputs>
+</inputs><branch active="0"><b name="lame fight"><inputs>
   68,R,J,X
   73
    1,C
@@ -390,7 +390,7 @@
    2
   36,L
    1,C
-# 7635?
+# 7636
 
 </inputs></b><b name="cool fight"><inputs>
    5,L,X
@@ -781,5 +781,197 @@
   10,L,J
    1,C
 #ded 4183 (2 frames to be saved)
+  71
+   5,L,X
+   6,J,X
+  13,X
+   6,J,X
+   7,X
+   1,L,D,X
+  11,U,X,G
+   9,R,U,X,G
+   5,X
+   6,L,D,J,X
+  10,R
+  50,R,U,X,G
+  40
+   5,R,D,G
+  60
+  29,L,J
+  35
+   7,L
+  26
+   1,C
+   1
+#ded 4587 (+1f optimal)
+  71
+   5,L,X
+   6,J,X
+  13,X
+   6,J,X
+   7,X
+   1,L,D,X
+  25,J,X
+   7,U,X,G
+   9,R,U,X,G
+  40,R,X,G
+  15
+   1,R
+  19,R,G
+   7,R,U,X,G
+  10,U,X,G
+   2,R,U,X,G
+  17,R,G
+   3,R,U,X,G
+   1,U,X,G
+  23,R,U,X,G
+   7,R,G
+  80
+  15,R
+  85,L
+   6,R
+  40
+  47,L
+   1,C
+   1
+#ded 5157 (+1f from optimal)
+  71
+ 133
+   1,X
+   3,X,G
+  13,D,X,G,N
+   3,L,D,X,G,N
+  10,L,X,G
+   9,L,U,X,G,M
+  42,U,X,G,M
+  26,R,U,X,G,M
+   2,R,U,J,X,G,M
+   1,U,J,X,G,M
+  16,L,U,J,X,G,M
+   5,L,J,X,G
+   4,L,X,G
+  10,L,D,X,G,N
+  31,D,X,G,N
+   2,R,D,X,G,N
+  42,R,U,G
+   8,R,D,X,G
+  12,U,X,G
+  14,R,U,X,G
+  39,U,X,G
+   6,L,J,X
+  55
+   3,L
+   9,L,G
+   7,L,D,G,N
+  21,D,G,N
+   4,R,D,G,N
+  13,R,G
+   7,R,U,G,M
+  26,U,G,M
+   5,G
+   3,R,G
+   1,R
+  17
+  31,L
+   4
+  11,R,U,X,G
+  14,R,X,G
+   1,R,X,G,C
+  38,R,X,G
+#ded 5930 (+46f vs optimal)
+  71
+   5,L,X
+   6,J,X
+  13,X
+   6,J,X
+   7,X
+   1,L,D,X
+  11,U,X,G
+   9,R,U,X,G
+   6,X
+   1,R,J,X
+  53
+  48,D,G
+  16,L,G
+   1,L,U,G
+   2,U,G
+   6,L,D,X,G
+   3,R,U,X,G
+  35,R,X,G
+   6,U,G
+  11,X,G
+   5,R,D,X,G
+   5,D,G
+   7,L,D,G
+   7,L,G
+   7,L,U,G
+   3,U,G
+  10,L,X,G
+  14,U,X,G
+  16,L,X,G
+  13,D,G
+   9,R,D,G
+   1
+   1,D,G
+   4,X,G
+   1,J,X
+  20,X
+   2,U,X,G
+   5,L,U,X,G
+   5,L,X,G
+   4,L,D,X,G
+  16,X,G
+   6,D,G
+   1
+   9,R,D,G
+   7,X,G
+   1,J,X
+  18,X
+   2,U,X,G
+   5,L,U,X,G
+   5,L,X,G
+   3,L,D,X,G
+  15,X,G
+   1,L,D,G
+   5,D,G
+   9,R,D,G
+   2
+   1,D,G
+   6,X,G
+   1,R,U,X,G
+  24,U,X,G
+   1,L,U,X,G
+   5,L,X,G
+   3,L,D,G
+   1,G
+   2,L,D,G
+  20,D,G
+   3,R,D,G
+   8,X,G
+   1,J,X
+  15,X
+   2,U,X,G
+   5,L,U,X,G
+   5,L,X,G
+   3,L,D,X,G
+  10,X,G
+  20,D,G
+  61,R
+  23,R,G
+  30,U,G
+   3,L,G
+   2,R,G
+   1
+   1,J
+   3,L,J
+  60
+  20,D,G
+  92
+  30,R,J
+  50,L
+   1,C
+   1
+   1,C
+# 7006
 
 </inputs></b></branch></tas>
