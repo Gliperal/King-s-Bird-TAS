@@ -1,4 +1,4 @@
-<tas stage="Rooftops" rerecords="386"><inputs>
+<tas stage="Rooftops" rerecords="518"><inputs>
   29
    7,R,U,X,G
    5,R,G
@@ -87,42 +87,50 @@
   21,L,X
 
    1,L
-   6,U,G
+   1,L,U,G
+   5,U,G
 
    4,L,D,G
    4,L,U,G
    2,L
-   6,U,G
-   5,L,U,G
-   6,R,D,G
-  10,R,X,G
-
+   4,U,G
+   6,L,U,G
+   1,G
+   3,R,D,X,G
+   6,X
+   4,D,G
+   1,D,X,G
    3,D,G
-  21,R,U,J,X,G
-   7,D,G
+   6,R,U,X,G
    6,R,U,J,X,G
-  22,R,U,G
+   7,R,X,G
+   6,D,G
+   1,L,D,G
+   1,D,G
+   6,R,U,J,X,G
+  19
+   2,U,G
    7,R,X,G
    5,R,D,G
    4,R,U,G
    3,R,X,G
-
-   2,R,D,G
-   4,R,G
+   2,D,G
    1,R,D,G
    5,R,G
+   2
+   2,R,U,G
+   5,R,J,X,G
+   5,X
+   2,R,U,X,G
+   8,X,G
+   1,U,X,G
+   7,X,G
+   3,R,D,X,G
+   2,R,D,G
    1,R,U,G
-   3,R,G
+   7,R,X,G
    1,R,D,G
-   1,R,J,X,G
-   4,R,X,G
-  22,R,J,X,G
-   2,R,X,G
-   1,R,D,G
-   5,G
-   1,R,U,G
-   3,R,X,G
-   1,R,D,G
-   0,R,G
-# 807 (0:16.813)
+  15,R,G
+# 799 (0:16.646)
+
 </inputs></tas>
