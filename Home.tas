@@ -1,4 +1,4 @@
-<tas stage="Home" rerecords="1148"><branch active="0"><b name="Segment 1"><inputs>
+<tas stage="Home" rerecords="1515"><inputs>
  439
    3,R,X
    1
@@ -10,14 +10,11 @@
    1,J
   17,R
   31,L,X
-</inputs><branch active="0"><b name="main branch"><inputs>
    1,L,D,X
    7,L,U,X
   25
    6,J,X
- 103,X
-# 31.03 -> 23.47
-   5,X
+ 108,X
    1,J,X
    1,X
    4,R,J,X
@@ -91,9 +88,6 @@
   50
   27,R
 # 1373
-2653
-# one extra frame to prevent desyncs:
-   1
 
 </inputs></b></branch></b><b name="fun"><inputs>
    2
@@ -114,55 +108,10 @@
    0,X
 # -18.57
 
-</inputs></b></branch></b><b name="unnamed branch"><inputs>
-   1,L,D,X
-   7,L,U,X
-  25
-   6,J,X
-   5,R
-  99,X
-# 31.78 -> 23.72
-   7,X
-   1,J,X
-   1,X
-   4,R,J,X
-  13,X
-  99,L,J,X
-
-</inputs></b><b name="unnamed branch"><inputs>
-   1,L,D,X
-   7,L,U,X
-
-
-   3,R
-  21
-   6,J,X
- 111,X
-# 31.91 -> 23.59
-   1,J,X
-   1,X
-   4,R,J,X
-  12,X
-  99,L,J,X
-
-
-   4,R
-  19
-   1,X
-   6,J,X
- 111,X
-# 31.94 -> 23.67
-   1,J,X
-   1,X
-   4,R,J,X
-  12,X
-  99,L,J,X
-
-</inputs></b></branch></b><b name="Segment 1 (collapsed)"><inputs>
-
-</inputs></b></branch><branch active="0"><b name="Segment 2"><inputs>
-# -11340.0869, -2592
-  29
+</inputs></b></branch><inputs>
+2682
+# one extra frame to prevent desyncs:
+   1
    5,R,J,X
   36
    6,J,X
@@ -241,8 +190,7 @@
    7,X
    9
   24,J,X
-# 750
- 447
+# 4785
 
 </inputs></b><b name="cave route"><inputs>
   19,X
@@ -295,84 +243,40 @@
    0,J,X
 # 780 ish?
 
-</inputs></b></branch></b><b name="Segment 2 (collapsed)"><inputs>
-
-</inputs></b></branch><branch active="0"><b name="Segment 3"><inputs>
-# -1807.40, 608
-  29
+</inputs></b></branch><inputs>
+ 476
    7,L
    6,R,J,X
-  10,X
-   9
-  23,X
-   1,L
+   1,X
    5,J,X
-  10,X
+  41,X
+   5,J,X
+   9,X
    9
-   5,X
    6,J,X
-  23,X
-# 143
- 618
-# TWO extra frame to prevent desyncs:
+  21,X
+# 5371
+ 647
+# TWO extra frames to prevent desyncs:
    2
-
-</inputs></b><b name="Segment 3 (collapsed)"><inputs>
-
-</inputs></b></branch><branch active="0"><b name="Segment 4"><inputs>
-# 225.9274, 4080.00
-  29
    6,R,J,X
   15,R,X
    6,R,J,X
   15,R,X
-</inputs><branch active="0"><b name="main branch"><inputs>
    6,R,J,X
    5
    4,L,J,X
   34,L
-# 125
+# 6111
 1262
 # one extra frame to prevent desyncs:
    1
-
-</inputs></b><b name="unnamed branch"><inputs>
-   6
-   6,L,J,X
-  10,L
-  23,R,U,X
-   6,L,D,J,X
-# 128?
-
-</inputs></b></branch></b><b name="Segment 4 (collapsed)"><inputs>
-
-</inputs></b><b name="Segment 4 (from intended spawn)"><inputs>
-   5,R,J,X
-  25
-   6,J,X
-  15
-   6,J,X
-  15
-   4,J,X
-   1,X
-   4,L,J
-  34,L
-3050
-  99
-
-</inputs></b></branch><branch active="0"><b name="Segment 5"><inputs>
-# 683.58385, 4592.00
    5,R,J,X
   18
    5,R,G
    9,U,G
-# 37
+# 7410
 2050
-
-</inputs></b><b name="Segment 5 (collapsed)"><inputs>
-
-</inputs></b></branch><branch active="0"><b name="Segment 6"><inputs>
-# 3677.30, 832.00
    7,R,X,G
    9,D,G
    1
@@ -383,7 +287,7 @@
    2,U,G
    1,X
    1,X,G
-</inputs><branch active="1"><b name="RTA route"><inputs>
+</inputs><branch active="2"><b name="RTA route"><inputs>
    1,D,G
   24,G
    1,U,G
@@ -460,6 +364,65 @@
    0,R,X,G
 # 9713
 
-</inputs></b></branch></b><b name="Segment 6 (collapsed)"><inputs>
+</inputs></b><b name="OOB straight to end"><inputs>
+   5,D,G
+  22,R,D,G
+   8,R,G
+   2,U,G
+   3,R,X,G
+   6,J,X
+   3,U,X,G
+   5,L,U,X,G
+   5,L,X,G
+   3,L,D,X,G
+   4,X,G
+   3,L,D,X,G
+   5,D,G
+   6,R,D,G
+   4,R,G
+   4,R,U,X,G
+   6,J,X
+   3,U,X,G
+   5,L,U,X,G
+   2,L,X,G
+   4,R,U,X,G
+   5,R,X,G
+   2,R,D,X,G
+   6,R,X,G
+   2,R,D,X,G
+   5,D,G
+   7,L,D,G
+   2
+   1,R,D,G
+   2,D,G
+   1,D,X,G
+   9,R,D,G
+   3,R,G
+   1,G
+   3,R,U,X,G
+   3,R,D,G
+  11
+   1,D,G
+  18
+   5,D,G
+   1
+   1,D,G
+   2,L,G
+   1
+   1,D,G
+   2,D,X,G
+   2,R,D,G
+   4,R,G
+   4,R,U,G
+  10,G
+   1,R,U,G
+  10,G
+   2,R,U,G
+   9,G
+   3,R,D,G
+   3,R,G
+   2
+  17,R,J,X,G
+# 9816
 
 </inputs></b></branch></tas>
