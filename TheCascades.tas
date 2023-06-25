@@ -1,6 +1,4 @@
->stage The Cascades
->rerecords 306
-
+<tas stage="The Cascades" rerecords="450"><inputs>
   29
   18,L,J,X
   31,L,X
@@ -15,13 +13,7 @@
    4,L,J,X
   34,L
    4,R,J,X
-
-#  42,R,X
-#   6,R,J,X
-#   8,L,X
-#   1,L,J,X
-# leads to 42.85 @ 378
-
+</inputs><branch active="0"><b name="main branch"><inputs>
   42,X
    6,J,X
   13,X
@@ -59,23 +51,62 @@
    1,R
    4,L,J,X
    2,L,X
-   5,R,J,X
-   6,D,X,G
-  11,X
-   1,R,U,X,G
-  13
-   2,R,U,G
-  12
-   1,R,U,G
-  19,R,X,G
-   1,R,D,G
-   5,D,G
-   2,L,D,G
-  99
-   1,D,G
-  19,R,X
+   6,R,J,X
    2,R,D,G
-   4,R,G
+   3,D,G
+   1,R,G
+  10,G
    1,R,U,G
-   7
-# 12.250
+   6,G
+   1,R,U,G
+   5,G
+   1,R,U,G
+   1,R,G
+   3,R,U,X,G
+   1,R,D,G
+   3,D,G
+   1,G
+   1,R,G
+   5,R,U,X,G
+   2,R,D,G
+   1,G
+   3,R,G
+   3
+   4,R,U,X,G
+   2,R,D,X,G
+   1,R,D,G
+   1,D,G
+   1
+</inputs><branch active="1"><b name="1 dash"><inputs>
+   7,D,G
+  90
+  10,D,X,G
+   6
+   1,R,D,G
+   4
+   1,R,D,G
+   5,R,G
+   6,G
+# 576 (0:12.000)
+
+</inputs></b><b name="2 dash"><inputs>
+   8,D,G
+  62
+  12,D,X,G
+   1
+   1,R,D,G
+   1,D,G
+  31
+   6,R,G
+   5,G
+   3,R,U,G
+# 576 (0:12.000)
+
+</inputs></b></branch></b><b name="unnamed branch"><inputs>
+  42,R,X
+   6,R,J,X
+   8,L,X
+   1,L,J,X
+# leads to 42.85 @ 378
+
+</inputs></b></branch></tas>
