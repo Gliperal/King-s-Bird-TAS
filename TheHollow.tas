@@ -1,4 +1,4 @@
-<tas stage="The Hollow" rerecords="463"><inputs>
+<tas stage="The Hollow" rerecords="575"><inputs>
   29
    4,R,X
    3,R,J,X
@@ -62,6 +62,7 @@
    3,R,D,G
    2,R,X,G
    6,X
+</inputs><branch active="1"><b name="extreme edgepull"><inputs>
   11,U,X,G
    9,D,X,G
   10,D,G
@@ -97,7 +98,49 @@
    9,R,X,G
 # 758 (0:15.792)
 
-</inputs></b></branch></b><b name="quick start"><inputs>
+</inputs></b><b name="lesser edgepull"><inputs>
+   5,U,X,G
+   6,X,G
+   4,R,D,X,G
+   2,D,G
+  10,G
+   9,R,G
+   1,R,U,X,G
+   7,R,X,G
+   7,D,G
+   4
+   1,R,G
+   3
+   1,R,G
+  14
+   2,R,G
+   3,R,U,G
+   2,R,X,G
+   1,R,U,X,G
+   1,X,G
+  17,X,G
+   1,R,D,X,G
+   1
+   4,R,X,G
+   1,R,J,X,G
+   8,X
+   3,R,U,X,G
+   6,X,G
+   1,U,X,G
+  15,X,G
+   3,R,D,X,G
+   2,R,U,X,G
+   1,R,X,G
+  32,X,G
+   1,R,D,G
+   7,D,G
+   3,L,D,G
+   3,D,G
+   2,R,D,G
+   9,R,X,G
+# 749 (0:15.604)
+
+</inputs></b></branch></b></branch></b><b name="quick start"><inputs>
   10,L,X
    4,R,J,X
   11,R,X
