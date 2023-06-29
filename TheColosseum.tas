@@ -1,5 +1,4 @@
->stage The Colosseum
->rerecords 519
+<tas stage="The Colosseum" rerecords="924"><inputs>
 
   29
    7,R,U,X,G
@@ -47,6 +46,7 @@
    2,D,G
    8
    2,X
+</inputs><branch active="1"><b name="go to end"><inputs>
   15,D,G
   19,L
   13,R,U,G
@@ -92,3 +92,66 @@
    5,R,D,J,X
   21
 # 815 (0:16.979)
+
+</inputs></b><b name="another loop"><inputs>
+   4,L,D,G
+   5,L,G
+   1,D,G
+   1,R,D,G
+   2,D,X,G
+   2,X
+   6,J,X
+   2,L
+   2,L,U,X,G
+   5,U,X,G
+   4,R,U,X,G
+   1,X,G
+   7,U,X,G
+   2,R,U,G
+   4,G
+   5,R,G
+   4,R,D,G
+   4,D,G
+   4
+   2,R,D,G
+   2,D,G
+   1,L
+   2
+   7,X
+#!!!!
+   
+   1,D,G
+   2,L,D,G
+  26
+   2,R,D,G
+   4,R,G
+   4,R,U,G
+  20
+   1,R,U,G
+  20
+   1,R,U,G
+  33
+   2,R,U,G
+   5,G
+   1,U,G
+   5,G
+   2,U,G
+  10,G
+   2,U,G
+  10,G
+   1,U,G
+  10,G
+   1,U,G
+   6,G
+   1,U,G
+   1,G
+   2,U,G
+   5,G
+   5,U,G
+   2,G
+   5,U,G
+  39,U,X,G
+   1,R,D,X
+  10,R,J,X
+# 648 (0:13.500)
+</inputs></b></branch></tas>
