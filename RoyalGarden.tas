@@ -1,6 +1,4 @@
->stage Royal Garden
->rerecords 409
-
+<tas stage="Royal Garden" rerecords="409"><inputs>
   29
    7,R,U,X,G
    1,D,X,G
@@ -48,13 +46,12 @@
    6,J,X
    1,X
    6,J,X
+</inputs><branch active="0"><b name="main branch"><inputs>
    3,X
    4,L,J,X
   11
    4,R,J,X
   71
-
-
   11,R,G
   18,R,U,G
    1,R,X,G
@@ -62,9 +59,9 @@
    5,R,J,X,G
   21
    8,J,X
-# 0:14.896
+# 715 (0:14.896)
 
-
+</inputs></b><b name="unnamed branch"><inputs>
    8,X
    4,L,J,X
   14
@@ -73,5 +70,7 @@
   14
   32,R,X,G
    1,R,U,J,X
-  99,X
-# 0:15.083
+  32,X
+# 724 (0:15.083)
+
+</inputs></b></branch></tas>

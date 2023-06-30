@@ -1,6 +1,4 @@
->stage The Outskirts
->rerecords 459
-
+<tas stage="The Outskirts" rerecords="459"><inputs>
   29
    1,R,U,X
   30,R,U,J,X
@@ -45,40 +43,40 @@
    1,L
    4,R,J,X
    4,X,G
+</inputs><branch active="1"><b name="one loop"><inputs>
+   4,R,D,X,G
+   1,D,X,G
+  14,X
+   2,R,U,X,G
+  12
+   1,R,U,X,G
+   3,R,J,X,G
+  18,X
+   6,R,U,X,G
+   7,G
+   1,R,U,G
+   6,G
+   1,R,U,G
+   6,G
+   1,R,U,G
+   5,G
+   1,R,U,G
+   5,G
+   1,R,U,G
+   4,G
+  11,U,G
+   5,L,U,G
+   5,L,J,X
+  14,L
+   1,X
+   4,R,J,X
+   6,X,G
+  44,R,U,X,G
+  21,U,X,G
+  99,L,J,X
+# 20.91 speed @ 550
 
-
-#   4,R,D,X,G
-#   1,D,X,G
-#  14,X
-#   2,R,U,X,G
-#  12
-#   1,R,U,X,G
-#   3,R,J,X,G
-#  18,X
-#   6,R,U,X,G
-#   7,G
-#   1,R,U,G
-#   6,G
-#   1,R,U,G
-#   6,G
-#   1,R,U,G
-#   5,G
-#   1,R,U,G
-#   5,G
-#   1,R,U,G
-#   4,G
-#  11,U,G
-#   5,L,U,G
-#   5,L,J,X
-#  14,L
-#   1,X
-#   4,R,J,X
-#   6,X,G
-#  44,R,U,X,G
-#  21,U,X,G
-#  99,L,J,X
-
-
+</inputs></b><b name="two loops"><inputs>
    4,R,D,X,G
    6,D,X,G
    1,X
@@ -119,6 +117,7 @@
    5,U,X,G
    3,L,U,X,G
    4,L,J,X
+# 38.03 speed @ 550
    6,X,G
    4,L,D,X,G
    1,D,X,G
@@ -137,4 +136,6 @@
    3,R,D,X
    5,R,D,J,X
   27,R,X
-# 0:14.896
+# 715 (0:14.896)
+
+</inputs></b></branch></tas>
