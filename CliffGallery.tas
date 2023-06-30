@@ -1,5 +1,6 @@
-<tas stage="Cliff Gallery"><inputs>
+<tas stage="Cliff Gallery" rerecords="511"><inputs>
   29
+</inputs><branch active="1"><b name="leeway clip"><inputs>
   21,R,D,X,G
   17,L,D,X,G
   17,D,X,G
@@ -66,4 +67,200 @@
    1,D,G
    1
 # 563 (0:11.729)
-</inputs></tas>
+</inputs></b><b name="dash clip"><inputs>
+  10,R,U,X,G
+   1,D,G
+  33,D,X,G
+   2,L,D,G
+   4,D,X,G
+
+   3,R,G
+   1,R,D,G
+  30
+   1,L,D,G
+   1,D,X,G
+   9,D,X
+   3,L,D,X,G
+
+   1,R,D,G
+   2,R,G
+   2
+   1,R,G
+   9
+   1,L
+   3,R,G
+   1,L
+   2,R,U,G
+   1,R,G
+   1,D,G
+   2
+   1,X
+#!!!!
+
+   4,D,G
+  15
+   5,R,G
+  17
+   1,D,G
+   2
+   3,D,G
+  26
+   1,D,G
+   3
+</inputs><branch active="0"><b name="over"><inputs>
+   6,R,G
+  52
+   3,R,G
+  18
+   1,D,G
+  10
+   2,R,U,G
+   1
+   1,R,U,G
+  10
+   1,R,U,G
+</inputs><branch active="2"><b name="slant ceiling"><inputs>
+  66
+   4,R,U,G
+   2,G
+   1,R,U,G
+   2
+   1,X,G
+   1,R,U,X,G
+   2,U,X,G
+  11,X,G
+   1,R,U,X,G
+   3,R,X,G
+  10,G
+   2,R,D,G
+   2,R,G
+   3,R,D,G
+   9
+   1,R,D,G
+   1,D,G
+   8
+   2,R,G
+   1,R,D,G
+   3,R,U,G
+   2,R,X,G
+   1,D,G
+   7
+# 482 (0:10.042)
+
+
+
+
+
+
+
+
+
+
+
+
+</inputs></b><b name="flat ceiling"><inputs>
+  60
+   1,R,U,G
+   2
+   1,R,U,G
+   4,G
+   4,R,G
+   1,X,G
+   3,R,U,G
+   3,U,G
+  13,G
+   2,R,G
+   1,R,D,G
+   8,G
+   2,R,D,G
+   4,G
+   3,R,D,G
+   8
+   1,R,D,G
+   1,D,G
+  10
+   2,R,G
+   2,R,U,G
+   1
+   3,R,X,G
+   1,D,G
+   5
+   2,R,D,G
+# 484 (0:10.083)
+
+
+
+
+
+
+
+
+
+
+
+
+</inputs></b><b name="slant take 2"><inputs>
+  40
+# dash on ceiling
+   8,R,G
+   1,R,U,G
+   6,R,X,G
+   2,D,G
+   8
+   1,R,G
+   2
+   5,R,U,G
+   3,X,G
+   1,R,U,X,G
+   2,U,X,G
+  12,X,G
+   2,R,X,G
+   1,R,D,X,G
+   8,G
+   3,D,G
+   2,G
+   3,D,G
+   8
+   2,R,D,G
+   1,D,G
+   9
+   5,R,G
+   1,R,U,G
+   2,R,X,G
+   1,D,G
+   5
+   2,D,G
+# 482 (0:10.042)
+# subframes faster...
+</inputs></b></branch></b><b name="under"><inputs>
+   2,R,G
+  38
+   4,R,G
+  10
+   2,R,U,G
+  15
+   1,R,U,G
+  15
+   1,R,U,G
+  20
+   1,R,U,G
+   1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</inputs></b></branch></b></branch></tas>
