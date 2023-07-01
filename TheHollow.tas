@@ -1,4 +1,4 @@
-<tas stage="The Hollow" rerecords="575"><inputs>
+<tas stage="The Hollow" rerecords="857"><inputs>
   29
    4,R,X
    3,R,J,X
@@ -20,6 +20,7 @@
    3,L,G
    9,R,G
    7,R,U,G
+</inputs><branch active="1"><b name="edgepull"><inputs>
    8,U,G
    2,R,U,X,G
    3,R,X,G
@@ -140,6 +141,155 @@
    9,R,X,G
 # 749 (0:15.604)
 
+</inputs></b></branch></b></branch></b><b name="more walljumps"><inputs>
+   1,R,U,G
+   4,U,G
+
+   9,G
+   1,U,G
+   5,L,U,G
+   1,L,U,J,X,G
+   3,J
+   3
+   4,X
+   4,J
+   1
+   4,J,X
+   1
+   4,J,X
+  27
+   4,J,X
+  63
+  15,D,G
+  25
+   2,R,G
+  10
+   1,R,G
+   1,R,U,G
+   4
+   4,R,U,G
+   5
+   2,R,U,G
+   5
+   2,R,U,G
+   5
+   1,R,U,G
+   6
+   1,R,U,G
+   1
+   2,U,X,G
+   1,R,U,X,G
+  10,X,G
+   2,R,D,X,G
+   8,R,G
+   2,R,U,X,G
+   5,U,X,G
+   2,L,U,X,G
+   8,X,G
+   7,R,X,G
+   2,R,D,G
+   5,R,X,G
+</inputs><branch active="0"><b name="shorthop"><inputs>
+   1,R,J,X,G
+  21,R,D,G
+  10,R,G
+   1,R,U,G
+   8,R,X,G
+
+   1,R,D,G
+   7,D,G
+  13
+   1,R,G
+   2
+   3,R,G
+   3,R,U,G
+   1,U,G
+   1,R,G
+   6,X
+   5,R,U,X,G
+   4,X,G
+   8,R,X,G
+   1,R,D,G
+   1
+   1,R,D,G
+   2
+   6,R,X,G
+   1,R,U,X,G
+   2,X,G
+   1,R,D,X,G
+   3,R,X,G
+   4,R,U,X,G
+   3,X,G
+   1,R,X,G
+   2,R,D,X,G
+   1,R,X,G
+
+   3,R,U,X,G
+   1,R,X,G
+   8,X,G
+   1,R,X,G
+   1,R,D,X,G
+   4,R,X,G
+
+   1,R,D,G
+   1
+</inputs><branch active="1"><b name="over"><inputs>
+   5,R,U,X,G
+   4,G
+   1,R,G
+  16,G
+   1,R,D,G
+   2,R,D,X,G
+
+   2,R,D,G
+   4,D,G
+   0,L,D,G
+
+
+
+
+
+
+
+</inputs></b><b name="under"><inputs>
+   3,R,U,X,G
+  13,X,G
+   1,R,D,X,G
+   4,R,X,G
+
+   1,R,U,X,G
+   1,U,X,G
+   1,R,X,G
+   1,D,X,G
+   2,R,X,G
+
+   1
+   2,R,D,G
+   4,D,X,G
+   3,L,D,G
+   1
+   3,R,D,G
+   9,R,J,X,G
+# 716 (0:14.917)
+
+
+
+
+
+
+
+
+
+
+</inputs></b></branch></b><b name="edgepull"><inputs>
+   3,R,U,X,G
+   4,U,X,G
+  10,R,X,G
+   1,R,D,G
+   2,D,G
+  10,G
+   3,R,U,G
+   0,R,X,G
 </inputs></b></branch></b></branch></b><b name="quick start"><inputs>
   10,L,X
    4,R,J,X
