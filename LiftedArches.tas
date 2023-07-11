@@ -1,4 +1,4 @@
-<tas stage="Lifted Arches" rerecords="1130"><inputs>
+<tas stage="Lifted Arches" rerecords="1275"><inputs>
   29
    5,R,J,X
   31,X
@@ -126,7 +126,7 @@
    4,X
    1,R,D,G
    3
-</inputs><branch active="1"><b name="standard route"><inputs>
+</inputs><branch active="3"><b name="standard route (slant)"><inputs>
    1
    2,R,D,G
    5,R,G
@@ -145,17 +145,19 @@
    4,L,G
    7,L,U,G
    6,U,J,X,G
-   3,R,J,X
-  11,R
-   4,L,J,X
-  10,L
-   4,R,J,X
-  45,R
-  15,R,D,X,G
-   7,R,X,G
-   5,R,J,X
-  29,R,X
-# 1045 (0:21.771)
+   3,J,X
+  11
+   4,J,X
+  10
+   4,J
+  41
+   8,D,G
+  19,R,U,G
+   3,R,U,X,G
+   5,R,U,J,X,G
+   7,X
+   7,J,X
+# 1034 (0:21.542)
 
 </inputs></b><b name="loopback"><inputs>
    2,R,D,G
@@ -193,5 +195,67 @@
   29,R,X
    8,R,J,X
 # 1035 (0:21.563)
+
+</inputs></b><b name="standard route (ceiling)"><inputs>
+   1
+   2,R,D,G
+   5,R,G
+   5,R,U,G
+   5,U,G
+   2,L,U,G
+   1,R,U,G
+   1,L,U
+   3
+   8,R
+   6,D,G
+   7,R,D,G
+   1,D,G
+   4,L,G
+   8,L,U,G
+   7,U,G
+# 15.78
+  20,U,X,G
+   4,J,X
+  23
+   6,J,X
+   1,L
+   5,X
+   5,J,X
+  18
+   2,D,G
+   3,R,G
+  11,U,J,X,G
+# 1014 (0:21.125)
+
+</inputs></b><b name="loopback (dash reverse)"><inputs>
+   1
+   2,R,D,G
+   5,R,G
+   1
+   2,R,U,X,G
+   1,D,X,G
+   2,R,U,X,G
+   5,U,X,G
+   1,U,J,X,G
+   3,J
+  11
+   4,U,J,X,G
+   5,D,G
+   4
+   2,D,G
+   1
+   5,L,D,G
+   6,L,G
+   6,L,U,G
+   3,U,G
+   1,G
+  14,U,G
+   1,R,U,G
+   2,G
+   5,R,G
+   6,R,D,G
+   6,R,D,J,X,G
+  13
+# 968 (0:20.167)
 
 </inputs></b></branch></tas>
