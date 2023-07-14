@@ -1,4 +1,4 @@
-<tas stage="Caged Dream" rerecords="169"><inputs>
+<tas stage="Caged Dream" rerecords="218"><inputs>
    1
 </inputs><branch active="1"><b name="rta strat"><inputs>
    9,R,X
@@ -210,15 +210,28 @@
    1,R,U
    4,R
    1,R,U
-   4,R
-   1,R,U
-   4,R
-   1,R,U
-   4,R
-   1,R,U
-   1
+   1,R
+  15,U
 # 646
- 951
+   3,U
+  17,L,U
+ 180,L
+  21,U
+  17,R,U
+ 245,R
+  20,U
+  17,L,U
+  60,L
+  10,D
+  10,L
+  34,U
+  18,R,U
+  11,R
+  12,R,D
+  50,D
+  25,L
+  14,R,D
+ 187,L
 
 </inputs></b><b name="dash back at start"><inputs>
    1

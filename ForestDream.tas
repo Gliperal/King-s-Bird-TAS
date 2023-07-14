@@ -1,4 +1,4 @@
-<tas stage="Forest Dream" rerecords="164" spawn="0, 64"><branch active="0"><b name="12 trees (unoptimized)"><inputs>
+<tas stage="Forest Dream" rerecords="227" spawn="0, 64"><branch active="0"><b name="12 trees (unoptimized)"><inputs>
    1
   10,D
    8,R
@@ -25,8 +25,35 @@
    7,U
   17
    7,U
-   6
+   6,U
 # 238
+  24,U
+  12,R,D
+   9,D
+  10,L,D
+  13,L
+  16,L,U
+  26,U
+  10,L,D
+  10,D
+  10,R,D
+  10,R
+  11,R,U
+  33
+  11,U
+  22
+  12,U
+  16,L,U
+  12,L
+   8,L,D
+  20,D
+  30,L
+  10,L,U
+  40,L
+  40,L,U
+  20,L
+  20,L,U
+   0,R,U
 
 </inputs></b><b name="9 trees: ryu strat"><inputs>
   17,R,D
