@@ -1,4 +1,4 @@
-<tas stage="The Old City" rerecords="514"><inputs>
+<tas stage="The Old City" rerecords="706"><inputs>
   29
    7,R,U,X
    5,D,G
@@ -79,6 +79,7 @@
    3,L,J,X
    6,L
    4,R,J,X
+</inputs><branch active="1"><b name="stay on ceiling"><inputs>
   49,X
 # 23.47 @ 3240.24
    5,R
@@ -136,6 +137,61 @@
    0,R,U,X,G
 # 21.47 @ 609
 
+</inputs></b></branch></b><b name="drop off ceiling early"><inputs>
+  25,X
+  10,D,G
+  10
+   2,D,G
+  19,X
+
+   6,J,X
+   2,X
+   1,J,X
+   1,X
+   4,J,X
+   5
+# wait a bit to give space to make the next turn
+   5,X
+   4,J,X
+   8
+   1,D,X,G
+  13,D,G
+   1,R,D,G
+   3,R,G
+  19,R,U,J,X,G
+
+   7,D,G
+   6,R,U,G
+   8,U,G
+   6,L,U,J,X,G
+   1
+   4,J,X
+   1
+   4,J,X
+   1
+   4,J,X
+  10
+   7,D,G
+   4,L,D,X,G
+   6,L,G
+
+   5,D,G
+   2,R,X,G
+   4,J
+
+  15
+   8,U,X,G
+   2,R,D,X,G
+   1,D,G
+   5
+   8,U,X,G
+   1,R,U,X,G
+  10,X,G
+   2,R,D,G
+   1,D,J,X,G
+  26
+# 🎰
+# 777 (0:16.188)
 </inputs></b></branch></b></branch></b><b name="direct route"><inputs>
    6,X
    5,D,G
