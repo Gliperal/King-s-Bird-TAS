@@ -1,4 +1,4 @@
-<tas stage="Overgrown Ruins" rerecords="540"><inputs>
+<tas stage="Overgrown Ruins" rerecords="733"><inputs>
   29
    7,R,U,X
    1,R,U
@@ -193,6 +193,7 @@
   11,X,G
    3,U,X,G
    3,R,X,G
+</inputs><branch active="1"><b name="dash then walljumps"><inputs>
    5,R,D,J,X,G
 # *chef's kiss*
   21,R,X
@@ -248,4 +249,69 @@
    2,R,G
   12,R,D,J,X,G
 # 1071 (0:22.312)
-</inputs></tas>
+</inputs></b><b name="glide then ledge cancel"><inputs>
+   6,R,D,X,G
+   2,R,U,X,G
+   9,X,G
+   1,R,U,X,G
+   3,X,G
+   3,R,D,G
+   7,D,G
+
+   5,R,G
+   6,R,U,G
+   4,U,G
+   4,L,U,X,G
+   4,L,D,J,X
+   1,U,X
+   4,J,X
+   1
+   4,J,X
+   2
+
+   1,L,D,X,G
+   2,L,D,G
+   4,D,G
+   1,G
+
+   3,L,G
+   7,L,U,G
+   2,U,G
+   1,L,U,J,X,G
+   1
+   2,X
+   4,J,X
+   3,R,D,X,G
+   1,G
+   1,R,U,G
+   4,U,G
+   4,L,U,G
+   2,L,G
+   1,G
+
+   5,R,U,G
+   4,R,G
+   1,R,D,G
+   1,D,G
+   8,G
+   1,R,D,G
+   5,R,G
+   1,R,D,G
+   3,D,G
+   5,R,D,X,G
+
+  12,R,X,G
+   3,R,U,G
+  20,R,G
+   1,R,U,G
+   4,G
+   1,R,U,G
+   4,U,G
+   2,G
+   1,U,G
+   4,G
+   1,R,U,G
+   2,R,G
+   6,R,D,G
+# 948 (0:19.750)
+</inputs></b></branch></tas>
