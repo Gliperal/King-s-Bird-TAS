@@ -1,4 +1,4 @@
-<tas stage="Root Slides" rerecords="1030"><inputs>
+<tas stage="Root Slides" rerecords="1032"><inputs>
   29
 </inputs><branch active="1"><b name="main branch"><inputs>
    5,R,X
@@ -193,6 +193,7 @@
    2,L,U,G
   20
 
+</inputs><branch active="1"><b name="main branch"><inputs>
   10,D,G
    1,R,J,X
    5
@@ -240,4 +241,52 @@
    1,D,G
    1
 # 401 (0:08.354)
+</inputs></b></branch></b><b name="smaller jump"><inputs>
+   7,D,G
+   1,R,J,X
+# slow down during jumpsquat
+   5,L
+  30,D,G
+   1,R
+   1,D,G
+   1,R
+   1,D,G
+   1,R
+   1,D,G
+   1,R
+   1,D,G
+   1,R
+   1,D,G
+   1,R
+   1,D,G
+   1,R
+   1,D,G
+   2,R
+   1,D,G
+   2,R
+   1,D,G
+   2,R
+   1,D,G
+   2,R
+   1,D,G
+   2,R
+   1,D,G
+   3,R
+   1,D,G
+   3,R
+   1,D,G
+   3,R
+   1,D,G
+   3,R
+   1,D,G
+   4,R
+   2,R,G
+   2
+   1,R,G
+  10
+   1,R,G
+  13
+   1,D,G
+   4
+# 396 (0:08.250)
 </inputs></b></branch></b></branch></b></branch></tas>
