@@ -1,5 +1,6 @@
-<tas stage="Root Slides" rerecords="667"><inputs>
+<tas stage="Root Slides" rerecords="1030"><inputs>
   29
+</inputs><branch active="1"><b name="main branch"><inputs>
    5,R,X
    6,R,J,X
    3
@@ -82,7 +83,7 @@
    1,L,D,X,G
    1,X,G
    2,L,X,G
-</inputs><branch><b name="glide"><inputs>
+</inputs><branch active="0"><b name="glide"><inputs>
    2,D,X,G
   15,X
    2,U,X,G
@@ -109,7 +110,7 @@
    1,R,J,X
    6,R
    4,L,J,X
-</inputs><branch><b name="glide"><inputs>
+</inputs><branch active="0"><b name="glide"><inputs>
    7,L,D,G
    3,D,G
    1
@@ -148,4 +149,95 @@
    1,J,X,G
    3,L,J,X
 
-</inputs></b></branch></tas>
+</inputs></b></branch></b><b name="clip!"><inputs>
+   6,L,J,X
+  11
+   4,J,X
+  49
+   9,L,D,G
+  12,L,G
+  10,L,U,X,G
+
+  20,U,X,G
+   6,R,U,J,X,G
+</inputs><branch active="1"><b name="just do another loop"><inputs>
+  49
+   7,D,G
+  21,L,D,G
+  17
+   4,L,G
+  10,L,U,X,G
+
+  12,U,X,G
+   3,R,U,X,G
+  10,U,X,G
+   6,J,X,G
+
+   5,R,D,X,G
+   8,D,G
+   7,L,D,G
+   4,L,G
+  10
+   1,R
+   1
+</inputs></b><b name="try a bit harder"><inputs>
+  47
+   2,L
+   7,D,G
+   9,L,D,G
+   4,L,G
+   4
+   8,L,G
+   6,L,U,G
+   5
+   2,L,U,G
+  20
+
+  10,D,G
+   1,R,J,X
+   5
+</inputs><branch active="1"><b name="fall"><inputs>
+  50,D,G
+  30,R
+   4,R,G
+  33
+# 403 (0:08.396)
+</inputs></b><b name="wiggle"><inputs>
+  39,D,G
+   1,R
+   1,D,G
+   1,R
+   1,D,G
+   1,R
+   1,D,G
+   1,R
+   1,D,G
+   2,R
+   1,D,G
+   2,R
+   1,D,G
+   2,R
+   1,D,G
+   2,R
+   1,D,G
+   2,R
+   1,D,G
+   3,R
+   1,D,G
+   3,R
+   1,D,G
+   3,R
+   1,D,G
+   3,R
+   1,D,G
+   4,R
+   1,D,G
+   4,R
+   3,R,G
+   5
+   1,R,G
+   9
+   1,D,G
+   1
+# 401 (0:08.354)
+</inputs></b></branch></b></branch></b></branch></tas>
