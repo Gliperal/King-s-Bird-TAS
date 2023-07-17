@@ -1,4 +1,4 @@
-<tas stage="Battle for the Last Kingdom" rerecords="2943"><inputs>
+<tas stage="Battle for the Last Kingdom" rerecords="3013"><inputs>
  150
  152
    5,L,X
@@ -20,7 +20,7 @@
    4,L,D,G
    1,L,D,G,C
   19,D,G
-#ded 464
+#ded 463
   71
    5,L,X
    6,J,X
@@ -114,7 +114,7 @@
    6,L,J
    3
    1,C
-#ded 1385
+#ded 1384
   71
    5,L,X
    6,J,X
@@ -204,7 +204,7 @@
   16,R
   23,R,J,X
    1,C
-#ded 2424
+#ded 2423
   71
    5,L,X
    6,J,X
@@ -369,7 +369,7 @@
    6,L,D,G
   35
    1,C
-#ded 3641
+#ded 3640
   71
  285
    6,J
@@ -384,7 +384,7 @@
    9,U,X,G
   21,X,G
    1,C
-#ded 4181
+#ded 4180
   71
    5,L,X
    6,J,X
@@ -422,38 +422,41 @@
    6,R,J,X
    3
    1,C
-#ded 4584
+#ded 4583
   71
-   5,L,X
-   6,J,X
-  13,X
-   6,J,X
-   7,X
-   1,L,D,X
-  25,J,X
-   7,U,X,G
-   9,R,U,X,G
-  40,R,X,G
-  15
-   1,R
-  19,R,G
-   7,R,U,X,G
-  10,U,X,G
-   2,R,U,X,G
-  17,R,G
-   3,R,U,X,G
-   1,U,X,G
-  23,R,U,X,G
+  12,R
+   6,R,J
+  44,R,U
+  20,R
+   5,R,J
+  33,R
+   1,R,J
+  31,R
+   2,U
+   4,J
+  65,L
+   9,G
+   1,J
+   2,R
+  41
+   1,J
+  23
+  15,D,G
+   5,L,G
+   2,D,G
+   8,R,D,G
+   8,G
    7,R,G
-  80
-  15,R
-  85,L
-   6,R
-  40
-  47,L
+   8,R,U,G
+  11,U,G
+  17,G
+   8,R,D,G
+  31,R
+   6,R,J
+  40,R
+  31,L
    1,C
-   1
-#ded 5154 (+1f from optimal)
+#ded 5152
   71
    5,L,X
    6,J,X
@@ -540,7 +543,7 @@
   14
    1,C
    1
-#ded 5882 (+1f optimal)
+#ded 5880 (+1f optimal)
   71
    5,L,X
    6,J,X
@@ -634,6 +637,6 @@
    1,C
    1
    1,C
-# 6958
+# 6956
 
 </inputs></tas>
